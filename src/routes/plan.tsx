@@ -452,7 +452,7 @@ function PlanPage() {
                       onClick={() => setBudget(t.value)}
                       className={`rounded-2xl border p-4 text-center transition-all duration-300 ${
                         Math.abs(budget - t.value) < 100000
-                          ? "border-primary bg-white shadow-glow text-black"
+                          ? "border-primary bg-primary text-black font-bold shadow-glow"
                           : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
                       }`}
                     >
@@ -491,7 +491,7 @@ function PlanPage() {
                         onClick={() => setGuests(n)}
                         className={`rounded-full border px-5 py-2 text-sm font-bold transition-all duration-300 ${
                           guests === n
-                            ? "border-primary bg-white shadow-glow text-primary"
+                            ? "border-primary bg-primary text-black font-bold shadow-glow"
                             : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
                         }`}
                       >
@@ -615,7 +615,7 @@ function PlanPage() {
                         onClick={() => setState(s === "Other" ? state : s)}
                         className={`rounded-2xl border py-4 px-4 text-center transition-all duration-300 ${
                           state === s
-                            ? "border-primary bg-white shadow-glow text-black"
+                            ? "border-primary bg-primary text-black font-bold shadow-glow"
                             : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
                         }`}
                       >
@@ -635,7 +635,7 @@ function PlanPage() {
                         onClick={() => setTheme(t.name)}
                         className={`rounded-2xl border py-4 px-4 text-center transition-all duration-300 ${
                           theme === t.name
-                            ? "border-primary bg-white shadow-glow text-black"
+                            ? "border-primary bg-primary text-black font-bold shadow-glow"
                             : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
                         }`}
                       >
