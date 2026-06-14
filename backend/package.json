@@ -1,0 +1,39 @@
+{
+  "name": "dream-weaver-backend",
+  "version": "1.0.0",
+  "description": "AI-powered wedding planner REST API built with Node.js & Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "wedding",
+    "planner",
+    "ai",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "express-rate-limit": "^8.4.1",
+    "express-validator": "^7.0.1",
+    "helmet": "^8.1.0",
+    "ioredis": "^5.10.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.5.0",
+    "openai": "^4.47.1",
+    "pdfkit": "^0.18.0",
+    "redis": "^5.12.1",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}

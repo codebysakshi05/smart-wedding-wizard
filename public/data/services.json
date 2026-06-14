@@ -1,0 +1,1729 @@
+{
+  "planners": {
+    "premium": [
+      {
+        "id": "planner-premium-001",
+        "name": "Elite Wedding Concepts",
+        "category": "planners",
+        "budget": "premium",
+        "experience": "25 years",
+        "priceRange": "₹5,00,000 - ₹15,00,000",
+        "rating": 4.9,
+        "description": "Award-winning wedding planning agency specializing in luxury destination weddings and bespoke experiences with international standards.",
+        "specialties": [
+          "Destination weddings",
+          "Luxury planning",
+          "International events",
+          "Celebrity weddings",
+          "Multi-day celebrations"
+        ],
+        "coverImage": "/assets/services/planners/premium/elite-wedding-concepts/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/premium/gallery-1.jpg",
+          "/assets/services/planners/premium/gallery-2.jpg",
+          "/assets/services/planners/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "planner-premium-002",
+        "name": "Royal Affairs Management",
+        "category": "planners",
+        "budget": "premium",
+        "experience": "22 years",
+        "priceRange": "₹4,50,000 - ₹13,50,000",
+        "rating": 4.8,
+        "description": "Prestigious wedding planning firm known for royal and heritage weddings with meticulous attention to cultural traditions.",
+        "specialties": [
+          "Royal weddings",
+          "Heritage venues",
+          "Traditional ceremonies",
+          "Large-scale events",
+          "Customized themes"
+        ],
+        "coverImage": "/assets/services/planners/premium/royal-affairs-management/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/premium/gallery-4.jpg",
+          "/assets/services/planners/premium/gallery-5.jpg",
+          "/assets/services/planners/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "planner-premium-003",
+        "name": "Luxury Moments Weddings",
+        "category": "planners",
+        "budget": "premium",
+        "experience": "20 years",
+        "priceRange": "₹4,00,000 - ₹12,00,000",
+        "rating": 4.8,
+        "description": "Boutique wedding planning with focus on luxury experiences, exclusive venues, and personalized services.",
+        "specialties": [
+          "Boutique weddings",
+          "Luxury experiences",
+          "Exclusive venues",
+          "Personalized services",
+          "VIP management"
+        ],
+        "coverImage": "/assets/services/planners/premium/luxury-moments-weddings/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/premium/gallery-7.jpg",
+          "/assets/services/planners/premium/gallery-8.jpg",
+          "/assets/services/planners/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "planner-mid-001",
+        "name": "Elegance Wedding Planners",
+        "category": "planners",
+        "budget": "mid",
+        "experience": "15 years",
+        "priceRange": "₹1,80,000 - ₹5,00,000",
+        "rating": 4.5,
+        "description": "Experienced wedding planning team offering comprehensive services with attention to detail and client satisfaction.",
+        "specialties": [
+          "Full-service planning",
+          "Multi-event coordination",
+          "Budget management",
+          "Vendor relations",
+          "Timeline management"
+        ],
+        "coverImage": "/assets/services/planners/mid/elegance-wedding-planners/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/mid/gallery-1.jpg",
+          "/assets/services/planners/mid/gallery-2.jpg",
+          "/assets/services/planners/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "planner-mid-002",
+        "name": "Dream Day Organizers",
+        "category": "planners",
+        "budget": "mid",
+        "experience": "12 years",
+        "priceRange": "₹1,50,000 - ₹4,50,000",
+        "rating": 4.4,
+        "description": "Dedicated wedding planning service with creative ideas and professional management for memorable celebrations.",
+        "specialties": [
+          "Creative concepts",
+          "Event management",
+          "Vendor coordination",
+          "Budget planning",
+          "Day-of coordination"
+        ],
+        "coverImage": "/assets/services/planners/mid/dream-day-organizers/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/mid/gallery-4.jpg",
+          "/assets/services/planners/mid/gallery-5.jpg",
+          "/assets/services/planners/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "planner-mid-003",
+        "name": "Perfect Occasions",
+        "category": "planners",
+        "budget": "mid",
+        "experience": "10 years",
+        "priceRange": "₹1,30,000 - ₹4,00,000",
+        "rating": 4.3,
+        "description": "Professional wedding planners with expertise in traditional and modern events with personal touch.",
+        "specialties": [
+          "Traditional weddings",
+          "Modern events",
+          "Fusion concepts",
+          "Family management",
+          "Ceremony coordination"
+        ],
+        "coverImage": "/assets/services/planners/mid/perfect-occasions/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/mid/gallery-7.jpg",
+          "/assets/services/planners/mid/gallery-8.jpg",
+          "/assets/services/planners/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "planner-budget-001",
+        "name": "Happy Weddings Team",
+        "category": "planners",
+        "budget": "budget",
+        "experience": "6 years",
+        "priceRange": "₹50,000 - ₹1,50,000",
+        "rating": 4.1,
+        "description": "Affordable wedding planning services for smaller celebrations with good coordination and professional approach.",
+        "specialties": [
+          "Small weddings",
+          "Budget planning",
+          "Basic coordination",
+          "Vendor contacts",
+          "Local management"
+        ],
+        "coverImage": "/assets/services/planners/budget/happy-weddings-team/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/budget/gallery-1.jpg",
+          "/assets/services/planners/budget/gallery-2.jpg",
+          "/assets/services/planners/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "planner-budget-002",
+        "name": "Simple Celebrations",
+        "category": "planners",
+        "budget": "budget",
+        "experience": "4 years",
+        "priceRange": "₹40,000 - ₹1,20,000",
+        "rating": 4.0,
+        "description": "Budget-friendly wedding planning with essential coordination and practical approach.",
+        "specialties": [
+          "Budget weddings",
+          "Local venues",
+          "Basic management",
+          "Simple coordination",
+          "Cost-effective solutions"
+        ],
+        "coverImage": "/assets/services/planners/budget/simple-celebrations/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/budget/gallery-4.jpg",
+          "/assets/services/planners/budget/gallery-5.jpg",
+          "/assets/services/planners/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "planner-budget-003",
+        "name": "Local Weddings Connect",
+        "category": "planners",
+        "budget": "budget",
+        "experience": "3 years",
+        "priceRange": "₹30,000 - ₹1,00,000",
+        "rating": 3.9,
+        "description": "Community-based wedding planning with focus on local vendors and affordable services.",
+        "specialties": [
+          "Community events",
+          "Local vendors",
+          "Simple arrangements",
+          "Family involvement",
+          "Cost savings"
+        ],
+        "coverImage": "/assets/services/planners/budget/local-weddings-connect/cover.jpg",
+        "gallery": [
+          "/assets/services/planners/budget/gallery-7.jpg",
+          "/assets/services/planners/budget/gallery-8.jpg",
+          "/assets/services/planners/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "decorators": {
+    "premium": [
+      {
+        "id": "decorator-premium-001",
+        "name": "Royal Decor Artistry",
+        "category": "decorators",
+        "budget": "premium",
+        "experience": "22 years",
+        "priceRange": "₹3,00,000 - ₹10,00,000",
+        "rating": 4.9,
+        "description": "Award-winning decoration team creating breathtaking installations with premium materials and artistic excellence.",
+        "specialties": [
+          "Floral arrangements",
+          "Theme design",
+          "Luxury installations",
+          "International aesthetics",
+          "3D concepts"
+        ],
+        "coverImage": "/assets/services/decorators/premium/royal-decor-artistry/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/premium/gallery-1.jpg",
+          "/assets/services/decorators/premium/gallery-2.jpg",
+          "/assets/services/decorators/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "decorator-premium-002",
+        "name": "Eternal Elegance Designs",
+        "category": "decorators",
+        "budget": "premium",
+        "experience": "20 years",
+        "priceRange": "₹2,80,000 - ₹9,00,000",
+        "rating": 4.8,
+        "description": "Specialized in creating luxurious and romantic ambiances with premium floral and structural designs.",
+        "specialties": [
+          "Romantic themes",
+          "Floral designs",
+          "Lighting concepts",
+          "Luxury fabrics",
+          "Custom installations"
+        ],
+        "coverImage": "/assets/services/decorators/premium/eternal-elegance-designs/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/premium/gallery-4.jpg",
+          "/assets/services/decorators/premium/gallery-5.jpg",
+          "/assets/services/decorators/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "decorator-premium-003",
+        "name": "Divine Aesthetics Studio",
+        "category": "decorators",
+        "budget": "premium",
+        "experience": "18 years",
+        "priceRange": "₹2,50,000 - ₹8,50,000",
+        "rating": 4.8,
+        "description": "Creative decoration studio specializing in artistic installations and personalized wedding environments.",
+        "specialties": [
+          "Artistic designs",
+          "Personalized themes",
+          "Fine details",
+          "Premium materials",
+          "Innovative concepts"
+        ],
+        "coverImage": "/assets/services/decorators/premium/divine-aesthetics-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/premium/gallery-7.jpg",
+          "/assets/services/decorators/premium/gallery-8.jpg",
+          "/assets/services/decorators/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "decorator-mid-001",
+        "name": "Beautiful Moments Decor",
+        "category": "decorators",
+        "budget": "mid",
+        "experience": "12 years",
+        "priceRange": "₹1,00,000 - ₹3,50,000",
+        "rating": 4.4,
+        "description": "Professional decoration team with good aesthetic sense and practical execution for various wedding themes.",
+        "specialties": [
+          "Floral themes",
+          "Color coordination",
+          "Traditional decor",
+          "Modern designs",
+          "Budget-friendly beauty"
+        ],
+        "coverImage": "/assets/services/decorators/mid/beautiful-moments-decor/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/mid/gallery-1.jpg",
+          "/assets/services/decorators/mid/gallery-2.jpg",
+          "/assets/services/decorators/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "decorator-mid-002",
+        "name": "Creative Space Decorations",
+        "category": "decorators",
+        "budget": "mid",
+        "experience": "10 years",
+        "priceRange": "₹90,000 - ₹3,20,000",
+        "rating": 4.3,
+        "description": "Creative decoration service with focus on theme-based designs and efficient execution.",
+        "specialties": [
+          "Theme-based designs",
+          "Creative concepts",
+          "Efficient execution",
+          "Flexible ideas",
+          "Multi-venue setup"
+        ],
+        "coverImage": "/assets/services/decorators/mid/creative-space-decorations/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/mid/gallery-4.jpg",
+          "/assets/services/decorators/mid/gallery-5.jpg",
+          "/assets/services/decorators/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "decorator-mid-003",
+        "name": "Colorful Celebrations",
+        "category": "decorators",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹80,000 - ₹3,00,000",
+        "rating": 4.2,
+        "description": "Experienced decoration team offering good quality work with attention to client preferences.",
+        "specialties": [
+          "Color schemes",
+          "Floral designs",
+          "Budget management",
+          "Client consultation",
+          "Clean setup"
+        ],
+        "coverImage": "/assets/services/decorators/mid/colorful-celebrations/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/mid/gallery-7.jpg",
+          "/assets/services/decorators/mid/gallery-8.jpg",
+          "/assets/services/decorators/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "decorator-budget-001",
+        "name": "Simple & Pretty Decor",
+        "category": "decorators",
+        "budget": "budget",
+        "experience": "5 years",
+        "priceRange": "₹30,000 - ₹1,00,000",
+        "rating": 4.0,
+        "description": "Affordable decoration service with basic but attractive setup for smaller gatherings.",
+        "specialties": [
+          "Basic designs",
+          "Color combinations",
+          "Simple elegance",
+          "Budget arrangements",
+          "Local materials"
+        ],
+        "coverImage": "/assets/services/decorators/budget/simple-pretty-decor/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/budget/gallery-1.jpg",
+          "/assets/services/decorators/budget/gallery-2.jpg",
+          "/assets/services/decorators/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "decorator-budget-002",
+        "name": "Budget Friendly Designs",
+        "category": "decorators",
+        "budget": "budget",
+        "experience": "4 years",
+        "priceRange": "₹25,000 - ₹90,000",
+        "rating": 3.9,
+        "description": "Cost-effective decoration solutions with practical approach and good presentation.",
+        "specialties": [
+          "Budget designs",
+          "Local flowers",
+          "Simple themes",
+          "DIY options",
+          "Cost-effective solutions"
+        ],
+        "coverImage": "/assets/services/decorators/budget/budget-friendly-designs/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/budget/gallery-4.jpg",
+          "/assets/services/decorators/budget/gallery-5.jpg",
+          "/assets/services/decorators/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "decorator-budget-003",
+        "name": "Community Decorators",
+        "category": "decorators",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹20,000 - ₹70,000",
+        "rating": 3.8,
+        "description": "Local decoration team offering basic services with affordable pricing.",
+        "specialties": [
+          "Simple setups",
+          "Local materials",
+          "Traditional designs",
+          "Affordable rates",
+          "Community approach"
+        ],
+        "coverImage": "/assets/services/decorators/budget/community-decorators/cover.jpg",
+        "gallery": [
+          "/assets/services/decorators/budget/gallery-7.jpg",
+          "/assets/services/decorators/budget/gallery-8.jpg",
+          "/assets/services/decorators/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "photographers": {
+    "premium": [
+      {
+        "id": "photographer-premium-001",
+        "name": "Frames of Eternity",
+        "category": "photographers",
+        "budget": "premium",
+        "experience": "20 years",
+        "priceRange": "₹2,50,000 - ₹8,00,000",
+        "rating": 4.9,
+        "description": "Award-winning photography team with international experience, cinematic approach, and artistic excellence.",
+        "specialties": [
+          "Cinematic videography",
+          "Aerial shots",
+          "Pre-wedding albums",
+          "Drone photography",
+          "Same-day editing"
+        ],
+        "coverImage": "/assets/services/photographers/premium/frames-of-eternity/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/premium/gallery-1.jpg",
+          "/assets/services/photographers/premium/gallery-2.jpg",
+          "/assets/services/photographers/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "photographer-premium-002",
+        "name": "Moments Immortalized",
+        "category": "photographers",
+        "budget": "premium",
+        "experience": "18 years",
+        "priceRange": "₹2,20,000 - ₹7,50,000",
+        "rating": 4.8,
+        "description": "Specialized in capturing authentic emotions with professional equipment and creative storytelling.",
+        "specialties": [
+          "Photojournalism",
+          "Candid moments",
+          "Artistic photography",
+          "Multiple albums",
+          "Editing services"
+        ],
+        "coverImage": "/assets/services/photographers/premium/moments-immortalized/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/premium/gallery-4.jpg",
+          "/assets/services/photographers/premium/gallery-5.jpg",
+          "/assets/services/photographers/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "photographer-premium-003",
+        "name": "Eternal Frames Studio",
+        "category": "photographers",
+        "budget": "premium",
+        "experience": "16 years",
+        "priceRange": "₹2,00,000 - ₹7,00,000",
+        "rating": 4.8,
+        "description": "Premium photography studio with state-of-the-art equipment and professional editing and presentation.",
+        "specialties": [
+          "High-end equipment",
+          "Professional editing",
+          "Album design",
+          "Fine art prints",
+          "Video production"
+        ],
+        "coverImage": "/assets/services/photographers/premium/eternal-frames-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/premium/gallery-7.jpg",
+          "/assets/services/photographers/premium/gallery-8.jpg",
+          "/assets/services/photographers/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "photographer-mid-001",
+        "name": "Smile Capture Photography",
+        "category": "photographers",
+        "budget": "mid",
+        "experience": "10 years",
+        "priceRange": "₹80,000 - ₹3,00,000",
+        "rating": 4.4,
+        "description": "Professional photography service with good quality output, multiple albums, and timely delivery.",
+        "specialties": [
+          "Professional photography",
+          "Multiple albums",
+          "Quality editing",
+          "Video package",
+          "Affordable rates"
+        ],
+        "coverImage": "/assets/services/photographers/mid/smile-capture-photography/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/mid/gallery-1.jpg",
+          "/assets/services/photographers/mid/gallery-2.jpg",
+          "/assets/services/photographers/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "photographer-mid-002",
+        "name": "Candid Moments Capture",
+        "category": "photographers",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹70,000 - ₹2,80,000",
+        "rating": 4.3,
+        "description": "Experienced team focused on candid photography and natural moments with creative editing.",
+        "specialties": [
+          "Candid photography",
+          "Creative editing",
+          "Album design",
+          "Video clips",
+          "Client satisfaction"
+        ],
+        "coverImage": "/assets/services/photographers/mid/candid-moments-capture/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/mid/gallery-4.jpg",
+          "/assets/services/photographers/mid/gallery-5.jpg",
+          "/assets/services/photographers/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "photographer-mid-003",
+        "name": "Wedding Story Photographers",
+        "category": "photographers",
+        "budget": "mid",
+        "experience": "6 years",
+        "priceRange": "₹60,000 - ₹2,50,000",
+        "rating": 4.2,
+        "description": "Professional photography team with focus on storytelling and good quality albums.",
+        "specialties": [
+          "Story-based approach",
+          "Quality albums",
+          "Editing included",
+          "Flexible packages",
+          "Good communication"
+        ],
+        "coverImage": "/assets/services/photographers/mid/wedding-story-photographers/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/mid/gallery-7.jpg",
+          "/assets/services/photographers/mid/gallery-8.jpg",
+          "/assets/services/photographers/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "photographer-budget-001",
+        "name": "Budget Photography Services",
+        "category": "photographers",
+        "budget": "budget",
+        "experience": "4 years",
+        "priceRange": "₹20,000 - ₹80,000",
+        "rating": 4.0,
+        "description": "Affordable photography service with basic album and decent quality output.",
+        "specialties": [
+          "Basic album",
+          "Digital copies",
+          "Simple editing",
+          "Budget-friendly",
+          "Good coverage"
+        ],
+        "coverImage": "/assets/services/photographers/budget/budget-photography-services/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/budget/gallery-1.jpg",
+          "/assets/services/photographers/budget/gallery-2.jpg",
+          "/assets/services/photographers/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "photographer-budget-002",
+        "name": "Simple Shots Photography",
+        "category": "photographers",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹15,000 - ₹60,000",
+        "rating": 3.9,
+        "description": "Entry-level photography service with basic editing and affordable packages.",
+        "specialties": [
+          "Affordable packages",
+          "Basic editing",
+          "Digital files",
+          "Local photographers",
+          "Simple albums"
+        ],
+        "coverImage": "/assets/services/photographers/budget/simple-shots-photography/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/budget/gallery-4.jpg",
+          "/assets/services/photographers/budget/gallery-5.jpg",
+          "/assets/services/photographers/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "photographer-budget-003",
+        "name": "Local Photo Services",
+        "category": "photographers",
+        "budget": "budget",
+        "experience": "1 year",
+        "priceRange": "₹10,000 - ₹50,000",
+        "rating": 3.8,
+        "description": "Local photography service with basic coverage and budget pricing.",
+        "specialties": [
+          "Budget coverage",
+          "Local service",
+          "Basic editing",
+          "Quick delivery",
+          "Affordable rates"
+        ],
+        "coverImage": "/assets/services/photographers/budget/local-photo-services/cover.jpg",
+        "gallery": [
+          "/assets/services/photographers/budget/gallery-7.jpg",
+          "/assets/services/photographers/budget/gallery-8.jpg",
+          "/assets/services/photographers/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "makeup-artists": {
+    "premium": [
+      {
+        "id": "makeup-premium-001",
+        "name": "Bridal Artistry Experts",
+        "category": "makeup-artists",
+        "budget": "premium",
+        "experience": "18 years",
+        "priceRange": "₹80,000 - ₹2,50,000",
+        "rating": 4.9,
+        "description": "Award-winning bridal makeup artists with international experience in traditional and modern aesthetics.",
+        "specialties": [
+          "Bridal makeup",
+          "Airbrush techniques",
+          "Ethnic styles",
+          "Party makeup",
+          "Professional products"
+        ],
+        "coverImage": "/assets/services/makeup-artists/premium/bridal-artistry-experts/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/premium/gallery-1.jpg",
+          "/assets/services/makeup-artists/premium/gallery-2.jpg",
+          "/assets/services/makeup-artists/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "makeup-premium-002",
+        "name": "Radiant Beauty Studio",
+        "category": "makeup-artists",
+        "budget": "premium",
+        "experience": "16 years",
+        "priceRange": "₹75,000 - ₹2,20,000",
+        "rating": 4.8,
+        "description": "Specialized in bridal transformation with luxury products and personalized consultation.",
+        "specialties": [
+          "Bridal transformation",
+          "HD makeup",
+          "Trial sessions",
+          "Luxury brands",
+          "Skincare included"
+        ],
+        "coverImage": "/assets/services/makeup-artists/premium/radiant-beauty-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/premium/gallery-4.jpg",
+          "/assets/services/makeup-artists/premium/gallery-5.jpg",
+          "/assets/services/makeup-artists/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "makeup-premium-003",
+        "name": "Elite Beauty Artistry",
+        "category": "makeup-artists",
+        "budget": "premium",
+        "experience": "14 years",
+        "priceRange": "₹70,000 - ₹2,00,000",
+        "rating": 4.8,
+        "description": "Premium makeup artistry with focus on ethnic and contemporary bridal looks.",
+        "specialties": [
+          "Ethnic makeup",
+          "Contemporary looks",
+          "Professional styling",
+          "Luxury products",
+          "Advance booking"
+        ],
+        "coverImage": "/assets/services/makeup-artists/premium/elite-beauty-artistry/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/premium/gallery-7.jpg",
+          "/assets/services/makeup-artists/premium/gallery-8.jpg",
+          "/assets/services/makeup-artists/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "makeup-mid-001",
+        "name": "Beautiful You Makeup",
+        "category": "makeup-artists",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹30,000 - ₹1,00,000",
+        "rating": 4.4,
+        "description": "Professional makeup service with good technique and quality products for weddings.",
+        "specialties": [
+          "Bridal makeup",
+          "Party makeup",
+          "Trial sessions",
+          "Good products",
+          "Time management"
+        ],
+        "coverImage": "/assets/services/makeup-artists/mid/beautiful-you-makeup/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/mid/gallery-1.jpg",
+          "/assets/services/makeup-artists/mid/gallery-2.jpg",
+          "/assets/services/makeup-artists/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "makeup-mid-002",
+        "name": "Professional Makeup Studio",
+        "category": "makeup-artists",
+        "budget": "mid",
+        "experience": "6 years",
+        "priceRange": "₹25,000 - ₹90,000",
+        "rating": 4.3,
+        "description": "Experienced makeup artists offering quality bridal and party makeup with affordable pricing.",
+        "specialties": [
+          "Bridal makeup",
+          "Party looks",
+          "Affordable rates",
+          "Good coverage",
+          "Team available"
+        ],
+        "coverImage": "/assets/services/makeup-artists/mid/professional-makeup-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/mid/gallery-4.jpg",
+          "/assets/services/makeup-artists/mid/gallery-5.jpg",
+          "/assets/services/makeup-artists/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "makeup-mid-003",
+        "name": "Makeup Magic Studio",
+        "category": "makeup-artists",
+        "budget": "mid",
+        "experience": "4 years",
+        "priceRange": "₹20,000 - ₹80,000",
+        "rating": 4.2,
+        "description": "Professional makeup service with creative ideas and good execution.",
+        "specialties": [
+          "Creative makeup",
+          "Traditional looks",
+          "Event makeup",
+          "Consultations",
+          "Reasonable rates"
+        ],
+        "coverImage": "/assets/services/makeup-artists/mid/makeup-magic-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/mid/gallery-7.jpg",
+          "/assets/services/makeup-artists/mid/gallery-8.jpg",
+          "/assets/services/makeup-artists/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "makeup-budget-001",
+        "name": "Affordable Beauty Makeup",
+        "category": "makeup-artists",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹8,000 - ₹30,000",
+        "rating": 4.0,
+        "description": "Budget-friendly makeup service with decent quality and basic products.",
+        "specialties": [
+          "Budget makeup",
+          "Basic looks",
+          "Affordable products",
+          "Home service",
+          "Good rates"
+        ],
+        "coverImage": "/assets/services/makeup-artists/budget/affordable-beauty-makeup/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/budget/gallery-1.jpg",
+          "/assets/services/makeup-artists/budget/gallery-2.jpg",
+          "/assets/services/makeup-artists/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "makeup-budget-002",
+        "name": "Simple Makeup Services",
+        "category": "makeup-artists",
+        "budget": "budget",
+        "experience": "1 year",
+        "priceRange": "₹6,000 - ₹25,000",
+        "rating": 3.9,
+        "description": "Entry-level makeup service with affordable pricing and basic techniques.",
+        "specialties": [
+          "Budget service",
+          "Basic makeup",
+          "Home service",
+          "Quick service",
+          "Affordable"
+        ],
+        "coverImage": "/assets/services/makeup-artists/budget/simple-makeup-services/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/budget/gallery-4.jpg",
+          "/assets/services/makeup-artists/budget/gallery-5.jpg",
+          "/assets/services/makeup-artists/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "makeup-budget-003",
+        "name": "Local Makeup Artists",
+        "category": "makeup-artists",
+        "budget": "budget",
+        "experience": "6 months",
+        "priceRange": "₹5,000 - ₹20,000",
+        "rating": 3.8,
+        "description": "Community makeup artist offering very affordable services for events.",
+        "specialties": [
+          "Very affordable",
+          "Basic service",
+          "Local artist",
+          "Flexible timing",
+          "Budget rates"
+        ],
+        "coverImage": "/assets/services/makeup-artists/budget/local-makeup-artists/cover.jpg",
+        "gallery": [
+          "/assets/services/makeup-artists/budget/gallery-7.jpg",
+          "/assets/services/makeup-artists/budget/gallery-8.jpg",
+          "/assets/services/makeup-artists/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "caterers": {
+    "premium": [
+      {
+        "id": "caterer-premium-001",
+        "name": "Royal Culinary Experiences",
+        "category": "caterers",
+        "budget": "premium",
+        "experience": "20 years",
+        "priceRange": "₹1,500 - ₹3,500 per plate",
+        "rating": 4.9,
+        "description": "Award-winning catering service with Michelin-trained chefs and gourmet cuisine from multiple cuisines.",
+        "specialties": [
+          "International cuisine",
+          "Michelin dining",
+          "Culinary innovation",
+          "Live cooking stations",
+          "Premium ingredients"
+        ],
+        "coverImage": "/assets/services/caterers/premium/royal-culinary-experiences/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/premium/gallery-1.jpg",
+          "/assets/services/caterers/premium/gallery-2.jpg",
+          "/assets/services/caterers/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "caterer-premium-002",
+        "name": "Epicurean Delights",
+        "category": "caterers",
+        "budget": "premium",
+        "experience": "18 years",
+        "priceRange": "₹1,400 - ₹3,200 per plate",
+        "rating": 4.8,
+        "description": "Specialized in luxury wedding catering with fusion cuisine and premium presentation.",
+        "specialties": [
+          "Fusion cuisine",
+          "Luxury dining",
+          "Themed menus",
+          "Fine dining presentation",
+          "Customized menu"
+        ],
+        "coverImage": "/assets/services/caterers/premium/epicurean-delights/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/premium/gallery-4.jpg",
+          "/assets/services/caterers/premium/gallery-5.jpg",
+          "/assets/services/caterers/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "caterer-premium-003",
+        "name": "Grand Feast Catering",
+        "category": "caterers",
+        "budget": "premium",
+        "experience": "16 years",
+        "priceRange": "₹1,300 - ₹3,000 per plate",
+        "rating": 4.8,
+        "description": "Premium catering with focus on traditional recipes with modern presentation and diverse menus.",
+        "specialties": [
+          "Traditional recipes",
+          "Modern presentation",
+          "Large events",
+          "Multiple cuisines",
+          "Quality ingredients"
+        ],
+        "coverImage": "/assets/services/caterers/premium/grand-feast-catering/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/premium/gallery-7.jpg",
+          "/assets/services/caterers/premium/gallery-8.jpg",
+          "/assets/services/caterers/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "caterer-mid-001",
+        "name": "Flavors of Celebration",
+        "category": "caterers",
+        "budget": "mid",
+        "experience": "10 years",
+        "priceRange": "₹600 - ₹1,200 per plate",
+        "rating": 4.4,
+        "description": "Professional catering with good quality food and diverse menu options for weddings.",
+        "specialties": [
+          "Diverse cuisine",
+          "Good quality",
+          "Multiple options",
+          "Professional service",
+          "Reasonable rates"
+        ],
+        "coverImage": "/assets/services/caterers/mid/flavors-of-celebration/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/mid/gallery-1.jpg",
+          "/assets/services/caterers/mid/gallery-2.jpg",
+          "/assets/services/caterers/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "caterer-mid-002",
+        "name": "Homestyle Wedding Catering",
+        "category": "caterers",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹550 - ₹1,100 per plate",
+        "rating": 4.3,
+        "description": "Catering service specializing in authentic home-style cooking with modern presentation.",
+        "specialties": [
+          "Home-style cooking",
+          "Authentic recipes",
+          "Good taste",
+          "Friendly service",
+          "Affordable"
+        ],
+        "coverImage": "/assets/services/caterers/mid/homestyle-wedding-catering/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/mid/gallery-4.jpg",
+          "/assets/services/caterers/mid/gallery-5.jpg",
+          "/assets/services/caterers/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "caterer-mid-003",
+        "name": "Quality Feast Caterers",
+        "category": "caterers",
+        "budget": "mid",
+        "experience": "6 years",
+        "priceRange": "₹500 - ₹1,000 per plate",
+        "rating": 4.2,
+        "description": "Quality catering service with focus on taste and presentation with reasonable pricing.",
+        "specialties": [
+          "Quality food",
+          "Good presentation",
+          "Multiple menus",
+          "Team management",
+          "Fair pricing"
+        ],
+        "coverImage": "/assets/services/caterers/mid/quality-feast-caterers/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/mid/gallery-7.jpg",
+          "/assets/services/caterers/mid/gallery-8.jpg",
+          "/assets/services/caterers/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "caterer-budget-001",
+        "name": "Budget Feast Catering",
+        "category": "caterers",
+        "budget": "budget",
+        "experience": "3 years",
+        "priceRange": "₹200 - ₹500 per plate",
+        "rating": 4.0,
+        "description": "Affordable catering service with decent quality and basic menu options.",
+        "specialties": [
+          "Affordable service",
+          "Basic menu",
+          "Good quantity",
+          "Simple presentation",
+          "Budget-friendly"
+        ],
+        "coverImage": "/assets/services/caterers/budget/budget-feast-catering/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/budget/gallery-1.jpg",
+          "/assets/services/caterers/budget/gallery-2.jpg",
+          "/assets/services/caterers/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "caterer-budget-002",
+        "name": "Simple Catering Service",
+        "category": "caterers",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹150 - ₹400 per plate",
+        "rating": 3.9,
+        "description": "Budget catering with basic food and affordable pricing for smaller events.",
+        "specialties": [
+          "Very affordable",
+          "Basic food",
+          "Good quantity",
+          "Simple service",
+          "Local approach"
+        ],
+        "coverImage": "/assets/services/caterers/budget/simple-catering-service/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/budget/gallery-4.jpg",
+          "/assets/services/caterers/budget/gallery-5.jpg",
+          "/assets/services/caterers/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "caterer-budget-003",
+        "name": "Community Caterers",
+        "category": "caterers",
+        "budget": "budget",
+        "experience": "1 year",
+        "priceRange": "₹100 - ₹300 per plate",
+        "rating": 3.8,
+        "description": "Community catering service with very affordable rates and local cuisine.",
+        "specialties": [
+          "Ultra-affordable",
+          "Local cuisine",
+          "Community style",
+          "Bulk service",
+          "Budget rates"
+        ],
+        "coverImage": "/assets/services/caterers/budget/community-caterers/cover.jpg",
+        "gallery": [
+          "/assets/services/caterers/budget/gallery-7.jpg",
+          "/assets/services/caterers/budget/gallery-8.jpg",
+          "/assets/services/caterers/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "choreographers": {
+    "premium": [
+      {
+        "id": "choreographer-premium-001",
+        "name": "Royal Dance Academy",
+        "category": "choreographers",
+        "budget": "premium",
+        "experience": "18 years",
+        "priceRange": "₹1,20,000 - ₹4,00,000",
+        "rating": 4.9,
+        "description": "Professional choreography team with Bollywood experience and award-winning performances.",
+        "specialties": [
+          "Bollywood choreography",
+          "Fusion dance",
+          "Bridal entry",
+          "Group performances",
+          "International styles"
+        ],
+        "coverImage": "/assets/services/choreographers/premium/royal-dance-academy/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/premium/gallery-1.jpg",
+          "/assets/services/choreographers/premium/gallery-2.jpg",
+          "/assets/services/choreographers/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "choreographer-premium-002",
+        "name": "Elite Movement Studio",
+        "category": "choreographers",
+        "budget": "premium",
+        "experience": "16 years",
+        "priceRange": "₹1,00,000 - ₹3,80,000",
+        "rating": 4.8,
+        "description": "Specialized in creating custom choreography for weddings with professional dancers.",
+        "specialties": [
+          "Custom choreography",
+          "Professional dancers",
+          "Bridal performances",
+          "Group dances",
+          "Rehearsals included"
+        ],
+        "coverImage": "/assets/services/choreographers/premium/elite-movement-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/premium/gallery-4.jpg",
+          "/assets/services/choreographers/premium/gallery-5.jpg",
+          "/assets/services/choreographers/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "choreographer-premium-003",
+        "name": "Precision Dance Productions",
+        "category": "choreographers",
+        "budget": "premium",
+        "experience": "14 years",
+        "priceRange": "₹90,000 - ₹3,50,000",
+        "rating": 4.8,
+        "styles": [
+          "Contemporary dance",
+          "Traditional performances",
+          "Custom shows",
+          "Professional production",
+          "Advanced training"
+        ],
+        "description": "Professional choreography with focus on precision and artistic expression.",
+        "specialties": [
+          "Contemporary dance",
+          "Traditional performances",
+          "Custom shows",
+          "Professional production",
+          "Advanced training"
+        ],
+        "coverImage": "/assets/services/choreographers/premium/precision-dance-productions/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/premium/gallery-7.jpg",
+          "/assets/services/choreographers/premium/gallery-8.jpg",
+          "/assets/services/choreographers/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "choreographer-mid-001",
+        "name": "Dance Celebration Studio",
+        "category": "choreographers",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹40,000 - ₹1,50,000",
+        "rating": 4.4,
+        "description": "Professional choreography team offering good quality dance performances for weddings.",
+        "specialties": [
+          "Bollywood dance",
+          "Bridal entry",
+          "Group dances",
+          "Rehearsals",
+          "Professional quality"
+        ],
+        "coverImage": "/assets/services/choreographers/mid/dance-celebration-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/mid/gallery-1.jpg",
+          "/assets/services/choreographers/mid/gallery-2.jpg",
+          "/assets/services/choreographers/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "choreographer-mid-002",
+        "name": "Creative Movement Academy",
+        "category": "choreographers",
+        "budget": "mid",
+        "experience": "6 years",
+        "priceRange": "₹35,000 - ₹1,30,000",
+        "rating": 4.3,
+        "description": "Experienced choreography with creative ideas and good execution.",
+        "specialties": [
+          "Creative dances",
+          "Family involvement",
+          "Fun choreography",
+          "Good training",
+          "Affordable"
+        ],
+        "coverImage": "/assets/services/choreographers/mid/creative-movement-academy/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/mid/gallery-4.jpg",
+          "/assets/services/choreographers/mid/gallery-5.jpg",
+          "/assets/services/choreographers/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "choreographer-mid-003",
+        "name": "Wedding Dance Experts",
+        "category": "choreographers",
+        "budget": "mid",
+        "experience": "4 years",
+        "priceRange": "₹30,000 - ₹1,20,000",
+        "rating": 4.2,
+        "description": "Professional choreography service focused on wedding-specific performances.",
+        "specialties": [
+          "Wedding dances",
+          "Easy learning",
+          "Fun performances",
+          "Good teamwork",
+          "Reasonable rates"
+        ],
+        "coverImage": "/assets/services/choreographers/mid/wedding-dance-experts/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/mid/gallery-7.jpg",
+          "/assets/services/choreographers/mid/gallery-8.jpg",
+          "/assets/services/choreographers/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "choreographer-budget-001",
+        "name": "Budget Dance Studio",
+        "category": "choreographers",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹10,000 - ₹50,000",
+        "rating": 4.0,
+        "description": "Affordable choreography service for simple dance performances.",
+        "specialties": [
+          "Simple dances",
+          "Affordable rates",
+          "Basic training",
+          "Fun approach",
+          "Budget-friendly"
+        ],
+        "coverImage": "/assets/services/choreographers/budget/budget-dance-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/budget/gallery-1.jpg",
+          "/assets/services/choreographers/budget/gallery-2.jpg",
+          "/assets/services/choreographers/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "choreographer-budget-002",
+        "name": "Simple Dance Services",
+        "category": "choreographers",
+        "budget": "budget",
+        "experience": "1 year",
+        "priceRange": "₹8,000 - ₹40,000",
+        "rating": 3.9,
+        "description": "Entry-level choreography with budget-friendly pricing.",
+        "specialties": [
+          "Very affordable",
+          "Simple moves",
+          "Quick training",
+          "Fun lessons",
+          "Flexible"
+        ],
+        "coverImage": "/assets/services/choreographers/budget/simple-dance-services/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/budget/gallery-4.jpg",
+          "/assets/services/choreographers/budget/gallery-5.jpg",
+          "/assets/services/choreographers/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "choreographer-budget-003",
+        "name": "Local Dance Artists",
+        "category": "choreographers",
+        "budget": "budget",
+        "experience": "6 months",
+        "priceRange": "₹5,000 - ₹30,000",
+        "rating": 3.8,
+        "description": "Community dance artists offering very affordable choreography.",
+        "specialties": [
+          "Ultra-affordable",
+          "Local service",
+          "Basic moves",
+          "Community approach",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/services/choreographers/budget/local-dance-artists/cover.jpg",
+        "gallery": [
+          "/assets/services/choreographers/budget/gallery-7.jpg",
+          "/assets/services/choreographers/budget/gallery-8.jpg",
+          "/assets/services/choreographers/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "mehndi-artists": {
+    "premium": [
+      {
+        "id": "mehndi-premium-001",
+        "name": "Royal Henna Art Studio",
+        "category": "mehndi-artists",
+        "budget": "premium",
+        "experience": "16 years",
+        "priceRange": "₹8,000 - ₹25,000 per person",
+        "rating": 4.9,
+        "description": "Expert henna artists specializing in intricate bridal designs from various regions of India.",
+        "specialties": [
+          "Bridal designs",
+          "Intricate patterns",
+          "Regional styles",
+          "Henna quality",
+          "Artistic excellence"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/premium/royal-henna-art-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/premium/gallery-1.jpg",
+          "/assets/services/mehndi-artists/premium/gallery-2.jpg",
+          "/assets/services/mehndi-artists/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "mehndi-premium-002",
+        "name": "Intricate Design Studio",
+        "category": "mehndi-artists",
+        "budget": "premium",
+        "experience": "14 years",
+        "priceRange": "₹7,500 - ₹22,000 per person",
+        "rating": 4.8,
+        "description": "Specialized in creating elaborate and artistic mehndi designs with premium quality henna.",
+        "specialties": [
+          "Elaborate designs",
+          "Premium henna",
+          "Artistic patterns",
+          "Bridal expertise",
+          "Consultation included"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/premium/intricate-design-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/premium/gallery-4.jpg",
+          "/assets/services/mehndi-artists/premium/gallery-5.jpg",
+          "/assets/services/mehndi-artists/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "mehndi-premium-003",
+        "name": "Traditional Henna Artists",
+        "category": "mehndi-artists",
+        "budget": "premium",
+        "experience": "12 years",
+        "priceRange": "₹7,000 - ₹20,000 per person",
+        "rating": 4.8,
+        "description": "Traditional mehndi artists with expertise in classic and contemporary designs.",
+        "specialties": [
+          "Traditional designs",
+          "Contemporary art",
+          "Quality henna",
+          "Team available",
+          "Premium service"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/premium/traditional-henna-artists/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/premium/gallery-7.jpg",
+          "/assets/services/mehndi-artists/premium/gallery-8.jpg",
+          "/assets/services/mehndi-artists/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "mehndi-mid-001",
+        "name": "Beautiful Henna Designs",
+        "category": "mehndi-artists",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹3,500 - ₹9,000 per person",
+        "rating": 4.4,
+        "description": "Professional mehndi artists with good design skills and quality henna application.",
+        "specialties": [
+          "Good designs",
+          "Quality henna",
+          "Quick service",
+          "Multiple artists",
+          "Affordable"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/mid/beautiful-henna-designs/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/mid/gallery-1.jpg",
+          "/assets/services/mehndi-artists/mid/gallery-2.jpg",
+          "/assets/services/mehndi-artists/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "mehndi-mid-002",
+        "name": "Creative Mehndi Studio",
+        "category": "mehndi-artists",
+        "budget": "mid",
+        "experience": "6 years",
+        "priceRange": "₹3,000 - ₹8,000 per person",
+        "rating": 4.3,
+        "description": "Creative mehndi designs with good execution and decent henna quality.",
+        "specialties": [
+          "Creative designs",
+          "Good quality",
+          "Friendly service",
+          "Team support",
+          "Fair pricing"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/mid/creative-mehndi-studio/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/mid/gallery-4.jpg",
+          "/assets/services/mehndi-artists/mid/gallery-5.jpg",
+          "/assets/services/mehndi-artists/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "mehndi-mid-003",
+        "name": "Skillful Henna Application",
+        "category": "mehndi-artists",
+        "budget": "mid",
+        "experience": "4 years",
+        "priceRange": "₹2,500 - ₹7,000 per person",
+        "rating": 4.2,
+        "description": "Skilled mehndi artists offering decent designs at reasonable rates.",
+        "specialties": [
+          "Skilled application",
+          "Decent designs",
+          "Reasonable rates",
+          "Quick service",
+          "Team management"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/mid/skillful-henna-application/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/mid/gallery-7.jpg",
+          "/assets/services/mehndi-artists/mid/gallery-8.jpg",
+          "/assets/services/mehndi-artists/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "mehndi-budget-001",
+        "name": "Affordable Mehndi Service",
+        "category": "mehndi-artists",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹1,000 - ₹3,500 per person",
+        "rating": 4.0,
+        "description": "Budget-friendly mehndi service with basic designs and affordable pricing.",
+        "specialties": [
+          "Budget service",
+          "Basic designs",
+          "Affordable henna",
+          "Good coverage",
+          "Quick application"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/budget/affordable-mehndi-service/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/budget/gallery-1.jpg",
+          "/assets/services/mehndi-artists/budget/gallery-2.jpg",
+          "/assets/services/mehndi-artists/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "mehndi-budget-002",
+        "name": "Simple Henna Artists",
+        "category": "mehndi-artists",
+        "budget": "budget",
+        "experience": "1 year",
+        "priceRange": "₹800 - ₹2,500 per person",
+        "rating": 3.9,
+        "description": "Entry-level mehndi service with simple designs and budget pricing.",
+        "specialties": [
+          "Very affordable",
+          "Simple designs",
+          "Quick service",
+          "Local artist",
+          "Budget-friendly"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/budget/simple-henna-artists/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/budget/gallery-4.jpg",
+          "/assets/services/mehndi-artists/budget/gallery-5.jpg",
+          "/assets/services/mehndi-artists/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "mehndi-budget-003",
+        "name": "Community Henna Service",
+        "category": "mehndi-artists",
+        "budget": "budget",
+        "experience": "6 months",
+        "priceRange": "₹500 - ₹2,000 per person",
+        "rating": 3.8,
+        "description": "Community-based mehndi service with very affordable rates.",
+        "specialties": [
+          "Ultra-affordable",
+          "Local service",
+          "Basic application",
+          "Community approach",
+          "Budget rates"
+        ],
+        "coverImage": "/assets/services/mehndi-artists/budget/community-henna-service/cover.jpg",
+        "gallery": [
+          "/assets/services/mehndi-artists/budget/gallery-7.jpg",
+          "/assets/services/mehndi-artists/budget/gallery-8.jpg",
+          "/assets/services/mehndi-artists/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "bands": {
+    "premium": [
+      {
+        "id": "band-premium-001",
+        "name": "Royal Brass Band",
+        "category": "bands",
+        "budget": "premium",
+        "experience": "20 years",
+        "priceRange": "₹2,00,000 - ₹6,00,000",
+        "rating": 4.9,
+        "description": "Professional brass band with experienced musicians, traditional and modern repertoire.",
+        "specialties": [
+          "Brass instruments",
+          "Traditional music",
+          "Modern arrangements",
+          "Live performances",
+          "Professional quality"
+        ],
+        "coverImage": "/assets/services/bands/premium/royal-brass-band/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/premium/gallery-1.jpg",
+          "/assets/services/bands/premium/gallery-2.jpg",
+          "/assets/services/bands/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "band-premium-002",
+        "name": "Elite Orchestra",
+        "category": "bands",
+        "budget": "premium",
+        "experience": "18 years",
+        "priceRange": "₹1,80,000 - ₹5,50,000",
+        "rating": 4.8,
+        "description": "High-quality orchestra with professional musicians and diverse musical styles.",
+        "specialties": [
+          "Orchestra music",
+          "Professional musicians",
+          "Diverse styles",
+          "Quality sound",
+          "Professional equipment"
+        ],
+        "coverImage": "/assets/services/bands/premium/elite-orchestra/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/premium/gallery-4.jpg",
+          "/assets/services/bands/premium/gallery-5.jpg",
+          "/assets/services/bands/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "band-premium-003",
+        "name": "Classical Music Ensemble",
+        "category": "bands",
+        "budget": "premium",
+        "experience": "16 years",
+        "priceRange": "₹1,50,000 - ₹5,00,000",
+        "rating": 4.8,
+        "description": "Ensemble specializing in classical Indian and Western music with authentic instruments.",
+        "specialties": [
+          "Classical music",
+          "Indian instruments",
+          "Western music",
+          "Quality acoustics",
+          "Professional performance"
+        ],
+        "coverImage": "/assets/services/bands/premium/classical-music-ensemble/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/premium/gallery-7.jpg",
+          "/assets/services/bands/premium/gallery-8.jpg",
+          "/assets/services/bands/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "band-mid-001",
+        "name": "Professional Music Band",
+        "category": "bands",
+        "budget": "mid",
+        "experience": "10 years",
+        "priceRange": "₹60,000 - ₹2,00,000",
+        "rating": 4.4,
+        "description": "Professional band with good musicians and diverse musical repertoire.",
+        "specialties": [
+          "Professional quality",
+          "Multiple instruments",
+          "Diverse styles",
+          "Good sound quality",
+          "Reasonable rates"
+        ],
+        "coverImage": "/assets/services/bands/mid/professional-music-band/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/mid/gallery-1.jpg",
+          "/assets/services/bands/mid/gallery-2.jpg",
+          "/assets/services/bands/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "band-mid-002",
+        "name": "Festive Music Ensemble",
+        "category": "bands",
+        "budget": "mid",
+        "experience": "8 years",
+        "priceRange": "₹50,000 - ₹1,80,000",
+        "rating": 4.3,
+        "description": "Versatile music band with experience in weddings and celebrations.",
+        "specialties": [
+          "Wedding music",
+          "Festive songs",
+          "Good musicians",
+          "Sound equipment",
+          "Affordable"
+        ],
+        "coverImage": "/assets/services/bands/mid/festive-music-ensemble/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/mid/gallery-4.jpg",
+          "/assets/services/bands/mid/gallery-5.jpg",
+          "/assets/services/bands/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "band-mid-003",
+        "name": "Community Music Band",
+        "category": "bands",
+        "budget": "mid",
+        "experience": "5 years",
+        "priceRange": "₹40,000 - ₹1,50,000",
+        "rating": 4.2,
+        "description": "Local music band offering good performances at reasonable rates.",
+        "specialties": [
+          "Local musicians",
+          "Good performances",
+          "Diverse music",
+          "Affordable rates",
+          "Event experience"
+        ],
+        "coverImage": "/assets/services/bands/mid/community-music-band/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/mid/gallery-7.jpg",
+          "/assets/services/bands/mid/gallery-8.jpg",
+          "/assets/services/bands/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "band-budget-001",
+        "name": "Budget Music Band",
+        "category": "bands",
+        "budget": "budget",
+        "experience": "2 years",
+        "priceRange": "₹15,000 - ₹60,000",
+        "rating": 4.0,
+        "description": "Budget-friendly music band with basic musicians and popular songs.",
+        "specialties": [
+          "Budget service",
+          "Popular music",
+          "Basic quality",
+          "Local musicians",
+          "Affordable"
+        ],
+        "coverImage": "/assets/services/bands/budget/budget-music-band/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/budget/gallery-1.jpg",
+          "/assets/services/bands/budget/gallery-2.jpg",
+          "/assets/services/bands/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "band-budget-002",
+        "name": "Simple Music Group",
+        "category": "bands",
+        "budget": "budget",
+        "experience": "1 year",
+        "priceRange": "₹12,000 - ₹45,000",
+        "rating": 3.9,
+        "description": "Entry-level music group with affordable pricing and basic performances.",
+        "specialties": [
+          "Very affordable",
+          "Simple music",
+          "Local group",
+          "Budget rates",
+          "Basic equipment"
+        ],
+        "coverImage": "/assets/services/bands/budget/simple-music-group/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/budget/gallery-4.jpg",
+          "/assets/services/bands/budget/gallery-5.jpg",
+          "/assets/services/bands/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "band-budget-003",
+        "name": "Local Musicians Group",
+        "category": "bands",
+        "budget": "budget",
+        "experience": "6 months",
+        "priceRange": "₹10,000 - ₹35,000",
+        "rating": 3.8,
+        "description": "Community musicians offering very affordable band services.",
+        "specialties": [
+          "Ultra-affordable",
+          "Local musicians",
+          "Community approach",
+          "Basic music",
+          "Budget-friendly"
+        ],
+        "coverImage": "/assets/services/bands/budget/local-musicians-group/cover.jpg",
+        "gallery": [
+          "/assets/services/bands/budget/gallery-7.jpg",
+          "/assets/services/bands/budget/gallery-8.jpg",
+          "/assets/services/bands/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  }
+}

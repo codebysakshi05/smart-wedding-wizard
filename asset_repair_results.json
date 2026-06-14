@@ -1,0 +1,20 @@
+{
+  "fixed": [
+    "CREATED: categories\\christian\\mid/cover.avif",
+    "CREATED: categories\\christian\\premium/cover.webp",
+    "CREATED: services\\choreographers\\budget\\budget-dance-studio\\cover.jpg/cover.webp",
+    "CREATED: services\\choreographers\\budget\\local-dance-artists\\cover.jpg/cover.webp",
+    "CREATED: services\\choreographers\\budget\\simple-dance-services\\cover.jpg/cover.webp",
+    "CREATED: services\\decorators\\budget\\simple-pretty-decor\\cover.jpg/cover.webp",
+    "CREATED: services\\mehndi-artists\\budget\\affordable-mehndi-service\\cover.jpg/cover.webp",
+    "CREATED: services\\mehndi-artists\\budget\\community-henna-service\\cover.jpg/cover.webp",
+    "CREATED: services\\mehndi-artists\\budget\\simple-henna-artists\\cover.jpg/cover.webp",
+    "CREATED: services\\photographers\\budget\\budget-photography-services\\cover.jpg/cover.webp",
+    "CREATED: services\\photographers\\budget\\local-photo-services\\cover.jpg/cover.webp",
+    "CREATED: services\\photographers\\budget\\simple-shots-photography\\cover.jpg/cover.webp",
+    "CREATED: services\\planners\\budget\\happy-weddings-team\\cover.jpg/cover.avif",
+    "CREATED: services\\planners\\budget\\local-weddings-connect\\cover.jpg/cover.avif",
+    "CREATED: services\\planners\\budget\\simple-celebrations\\cover.jpg/cover.avif"
+  ],
+  "failed": []
+}

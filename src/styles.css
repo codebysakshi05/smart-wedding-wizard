@@ -1,0 +1,635 @@
+/* ── 1. ALL @imports must be first (PostCSS rule) ───────────────────────── */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600&family=Inter:wght@300;400;500;600;700&family=Yatra+One&family=El+Messiri:wght@700&family=Cinzel+Decorative:wght@700&family=Rozha+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Barlow:wght@300;400;500;600&display=swap");
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+/* ── 2. Custom Font Faces (after @imports) ───────────────────────────────── */
+@font-face {
+  font-family: "Helvetica Regular";
+  src: url("https://db.onlinewebfonts.com/t/a64ff11d2c24584c767f6257e880dc65.eot");
+  src:
+    url("https://db.onlinewebfonts.com/t/a64ff11d2c24584c767f6257e880dc65.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/a64ff11d2c24584c767f6257e880dc65.woff2") format("woff2"),
+    url("https://db.onlinewebfonts.com/t/a64ff11d2c24584c767f6257e880dc65.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/a64ff11d2c24584c767f6257e880dc65.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/a64ff11d2c24584c767f6257e880dc65.svg#Helvetica Regular")
+      format("svg");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dirtyline";
+  src: url("https://fonts.cdnfonts.com/s/15011/Dirtyline36DaysofType.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ── 3. Tailwind custom variant ──────────────────────────────────────────── */
+@custom-variant dark (&:is(.dark *));
+
+/* ── 4. Tailwind Theme ───────────────────────────────────────────────────── */
+@theme inline {
+  --font-display: "Instrument Serif", "Fraunces", serif;
+  --font-serif: "Barlow", "Inter", system-ui, sans-serif;
+  --font-sans: "Barlow", "Inter", system-ui, sans-serif;
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-gold-dark: var(--gold-dark);
+  --color-blush: var(--blush);
+  --color-cream: var(--cream);
+  --color-sage: var(--sage);
+}
+
+/* ── 5. CSS Variables (Luxury Ivory / Champagne / Warm Gold) ─────────────── */
+:root {
+  --radius: 1rem;
+
+  /* ── Brighter warm-dark base (ivory-tinted deep brown, not pure black) ── */
+  --background: oklch(0.17 0.018 60); /* warm dark brown, not pitch black */
+  --foreground: oklch(0.97 0.01 80); /* bright ivory white */
+  --card: oklch(0.21 0.02 65); /* slightly lighter warm card bg */
+  --card-foreground: oklch(0.97 0.01 80);
+  --popover: oklch(0.19 0.018 65);
+  --popover-foreground: oklch(0.97 0.01 80);
+
+  /* Gold primary — warm champagne */
+  --primary: oklch(0.82 0.13 78); /* brighter warm gold */
+  --primary-foreground: oklch(0.14 0.01 60); /* dark for contrast on gold */
+
+  --secondary: oklch(0.26 0.025 65);
+  --secondary-foreground: oklch(0.95 0.02 80);
+
+  /* Muted — readable, not invisible */
+  --muted: oklch(0.27 0.015 70);
+  --muted-foreground: oklch(0.9 0.02 90); /* was 0.82 - increased contrast */
+
+  --accent: oklch(0.28 0.035 50);
+  --accent-foreground: oklch(0.95 0.02 80);
+
+  --destructive: oklch(0.62 0.22 25);
+  --destructive-foreground: oklch(0.97 0.005 80);
+
+  --border: oklch(0.36 0.025 72); /* softer, more visible border */
+  --input: oklch(0.28 0.022 70);
+  --ring: oklch(0.82 0.13 78);
+
+  /* Luxury palette */
+  --gold: oklch(0.82 0.13 78);
+  --gold-light: oklch(0.9 0.09 82);
+  --gold-dark: oklch(0.64 0.14 72);
+  --blush: oklch(0.55 0.08 22);
+  --cream: oklch(0.93 0.025 82); /* ivory champagne */
+  --sage: oklch(0.62 0.06 140);
+
+  /* Gradients */
+  --gradient-luxury: linear-gradient(
+    135deg,
+    oklch(0.17 0.018 60) 0%,
+    oklch(0.22 0.03 72) 45%,
+    oklch(0.26 0.08 80) 100%
+  );
+  --gradient-gold: linear-gradient(135deg, oklch(0.9 0.09 82), oklch(0.68 0.15 72));
+  --gradient-soft: radial-gradient(
+    ellipse at top,
+    oklch(0.22 0.025 72) 0%,
+    oklch(0.17 0.018 60) 60%
+  );
+  --gradient-hero: linear-gradient(
+    180deg,
+    oklch(0 0 0 / 0) 0%,
+    oklch(0 0 0 / 0.4) 60%,
+    oklch(0 0 0 / 0.75) 100%
+  );
+
+  /* Shadows */
+  --shadow-luxury:
+    0 30px 80px -30px oklch(0.82 0.13 78 / 0.28), 0 8px 24px -12px oklch(0.82 0.13 78 / 0.14);
+  --shadow-soft: 0 4px 24px -6px oklch(0.05 0.01 60 / 0.35);
+  --shadow-glow: 0 0 60px oklch(0.9 0.09 82 / 0.4);
+  --shadow-premium: 0 40px 100px -20px oklch(0.05 0.01 60 / 0.55);
+
+  /* Glass — less opaque = less dark, more visible behind content */
+  --glass-bg: oklch(1 0 0 / 0.08); /* was 0.05 */
+  --glass-border: oklch(1 0 0 / 0.2); /* was 0.15 */
+  --glass-dark: oklch(0 0 0 / 0.28); /* was 0.40 — lighter overlay */
+  --glass-gold: oklch(0.9 0.09 82 / 0.12); /* was 0.08 */
+
+  --chart-1: oklch(0.82 0.13 78);
+  --chart-2: oklch(0.87 0.06 32);
+  --chart-3: oklch(0.66 0.1 140);
+  --chart-4: oklch(0.64 0.14 72);
+  --chart-5: oklch(0.8 0.09 350);
+}
+
+/* ── 6. Base layer ───────────────────────────────────────────────────────── */
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: oklch(0.17 0.018 60); /* warm dark brown instead of pure black */
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    font-family: var(--font-display);
+    letter-spacing: -0.01em;
+    font-weight: 400;
+    line-height: 1.15;
+    color: var(--color-foreground);
+  }
+  p {
+    line-height: 1.7;
+  }
+  small,
+  .text-xs {
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+}
+
+/* ── 7. Utility layer ────────────────────────────────────────────────────── */
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+    font-weight: 400;
+  }
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+  .font-hindu {
+    font-family: "Yatra One", sans-serif;
+  }
+  .font-muslim {
+    font-family: "El Messiri", sans-serif;
+  }
+  .font-christian {
+    font-family: "Cinzel Decorative", serif;
+  }
+  .font-sikh {
+    font-family: "Yatra One", sans-serif;
+  }
+  .font-south-indian {
+    font-family: "Rozha One", serif;
+  }
+  .bg-gradient-luxury {
+    background: var(--gradient-luxury);
+  }
+  .bg-gradient-gold {
+    background: var(--gradient-gold);
+  }
+  .bg-gradient-soft {
+    background: var(--gradient-soft);
+  }
+  .bg-gradient-hero {
+    background: var(--gradient-hero);
+  }
+
+  .text-gradient-gold {
+    background: linear-gradient(
+      135deg,
+      oklch(0.88 0.09 80) 0%,
+      oklch(0.78 0.12 75) 50%,
+      oklch(0.6 0.13 70) 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .shadow-luxury {
+    box-shadow: var(--shadow-luxury);
+  }
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+  .shadow-glow {
+    box-shadow: var(--shadow-glow);
+  }
+  .shadow-premium {
+    box-shadow: var(--shadow-premium);
+  }
+
+  .glass {
+    background: oklch(1 0 0 / 0.1); /* slightly brighter glass */
+    backdrop-filter: blur(24px) saturate(160%);
+    border: 1px solid oklch(1 0 0 / 0.22);
+  }
+  .glass-dark {
+    background: oklch(0 0 0 / 0.28); /* less dark than before */
+    backdrop-filter: blur(20px);
+    border: 1px solid oklch(1 0 0 / 0.14);
+  }
+  .glass-gold {
+    background: oklch(0.9 0.09 82 / 0.14);
+    backdrop-filter: blur(20px);
+    border: 1px solid oklch(0.9 0.09 82 / 0.28);
+  }
+
+  .hover-lift {
+    transition:
+      transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 0.4s ease;
+  }
+  .hover-lift:hover {
+    transform: translateY(-8px) scale(1.01);
+    box-shadow: var(--shadow-premium);
+  }
+
+  .tracking-luxury {
+    letter-spacing: 0.35em;
+  }
+
+  .divider-gold {
+    display: inline-flex;
+    align-items: center;
+    gap: 1rem;
+    color: var(--gold);
+  }
+  .divider-gold::before,
+  .divider-gold::after {
+    content: "";
+    width: 4rem;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold));
+  }
+  .divider-gold::after {
+    background: linear-gradient(90deg, var(--gold), transparent);
+  }
+
+  .aspect-full {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    height: 100%;
+  }
+
+  .bg-shimmer {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.05) 50%,
+      rgba(255, 255, 255, 0) 100%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 3s infinite linear;
+  }
+
+  .bg-texture {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    opacity: 0.04;
+    pointer-events: none;
+  }
+
+  .luxury-card {
+    background: oklch(1 0 0 / 0.1); /* brighter card surface */
+    backdrop-filter: blur(24px);
+    border: 1px solid oklch(1 0 0 / 0.2); /* more visible edge */
+    box-shadow: var(--shadow-luxury);
+    transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .luxury-card:hover {
+    background: oklch(1 0 0 / 0.14);
+    border-color: var(--primary);
+    box-shadow: var(--shadow-glow);
+    transform: translateY(-6px);
+  }
+}
+
+/* ── 8. Keyframe Animations ─────────────────────────────────────────────── */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes hero-zoom {
+  0% {
+    transform: scale(1.15);
+  }
+  100% {
+    transform: scale(1.05);
+  }
+}
+@keyframes scroll-line {
+  0% {
+    transform: scaleY(0);
+    transform-origin: top;
+  }
+  50% {
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+  51% {
+    transform: scaleY(1);
+    transform-origin: bottom;
+  }
+  100% {
+    transform: scaleY(0);
+    transform-origin: bottom;
+  }
+}
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+.animate-fade-up {
+  animation: fade-up 1.2s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-hero-zoom {
+  animation: hero-zoom 20s ease-out both;
+}
+.animate-scroll-line {
+  animation: scroll-line 2.4s ease-in-out infinite;
+}
+.animate-spin-slow {
+  animation: spin 12s linear infinite;
+}
+.animate-pulse-slow {
+  animation: pulse 6s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.05);
+  }
+}
+.skeleton-shimmer {
+  background: linear-gradient(90deg, var(--muted) 0%, var(--cream) 50%, var(--muted) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite;
+}
+
+@keyframes step-in-right {
+  0% {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes step-in-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes typing-dot {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  30% {
+    transform: translateY(-4px);
+    opacity: 1;
+  }
+}
+.animate-typing-dot {
+  animation: typing-dot 1.2s ease-in-out infinite;
+}
+
+@keyframes loading-bar {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(300%);
+  }
+}
+.animate-loading-bar {
+  animation: loading-bar 1.6s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes content-in {
+  0% {
+    opacity: 0;
+    transform: translateY(8px);
+    filter: blur(4px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+.animate-content-in {
+  animation: content-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ── 9. Misc Utilities ──────────────────────────────────────────────────── */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-in {
+  animation: fade-in 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Star rating helper */
+.star-filled {
+  color: #cfb53b;
+}
+.star-empty {
+  color: #d1d5db;
+}
+
+/* ── 10. Liquid Glass Effects ────────────────────────────────────────────── */
+.liquid-glass {
+  background: rgba(255, 255, 255, 0.01);
+  background-blend-mode: luminosity;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: none;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+.liquid-glass::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1.4px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.45) 0%,
+    rgba(255, 255, 255, 0.15) 20%,
+    rgba(255, 255, 255, 0) 40%,
+    rgba(255, 255, 255, 0) 60%,
+    rgba(255, 255, 255, 0.15) 80%,
+    rgba(255, 255, 255, 0.45) 100%
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+.liquid-glass-strong {
+  background: rgba(255, 255, 255, 0.01);
+  background-blend-mode: luminosity;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px);
+  border: none;
+  box-shadow:
+    4px 4px 4px rgba(0, 0, 0, 0.05),
+    inset 0 1px 1px rgba(255, 255, 255, 0.15);
+  position: relative;
+  overflow: hidden;
+}
+.liquid-glass-strong::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1.4px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(255, 255, 255, 0.2) 20%,
+    rgba(255, 255, 255, 0) 40%,
+    rgba(255, 255, 255, 0) 60%,
+    rgba(255, 255, 255, 0.2) 80%,
+    rgba(255, 255, 255, 0.5) 100%
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+/* ── 11. Hero Title ──────────────────────────────────────────────────────── */
+.hero-title {
+  font-family: "Instrument Serif", serif;
+  font-style: italic;
+  font-size: clamp(72px, 14vw, 200px);
+  line-height: 0.92;
+  letter-spacing: -0.02em;
+  color: white;
+  text-align: center;
+}
+
+/* ── 12. Wedding Ken Burns zoom (cinematic slide effect) ─────────────────── */
+@keyframes wedding-ken-burns {
+  0% {
+    transform: scale(1) translate(0px, 0px);
+  }
+  33% {
+    transform: scale(1.04) translate(-8px, -4px);
+  }
+  66% {
+    transform: scale(1.07) translate(6px, -6px);
+  }
+  100% {
+    transform: scale(1.1) translate(-4px, 2px);
+  }
+}
+
+/* ── 13. Cinematic text glow (hero headlines) ──────────────────────── */
+.text-glow-gold {
+  text-shadow:
+    0 0 60px rgba(201, 153, 74, 0.45),
+    0 0 120px rgba(201, 153, 74, 0.18);
+}
+
+/* ── 14. Navbar backdrop fix on older browsers ───────────────────── */
+.navbar-glass {
+  background: rgba(6, 4, 1, 0.62);
+  -webkit-backdrop-filter: blur(32px) saturate(180%);
+  backdrop-filter: blur(32px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow:
+    0 4px 40px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.07);
+}

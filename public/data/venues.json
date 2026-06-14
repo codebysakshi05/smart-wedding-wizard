@@ -1,0 +1,2763 @@
+{
+  "rajasthan": {
+    "premium": [
+      {
+        "id": "raj-premium-001",
+        "name": "Mehrangarh Fort Palace",
+        "city": "Jodhpur",
+        "state": "rajasthan",
+        "type": "Heritage Fort",
+        "budget": "premium",
+        "capacity": "800-1200",
+        "priceRange": "₹25,00,000 - ₹40,00,000",
+        "rating": 4.9,
+        "styles": ["Traditional", "Royal", "Heritage"],
+        "description": "Iconic 15th-century fort palace offering panoramic desert views with traditional Rajasthani architecture. Perfect for grand royal-style weddings.",
+        "features": [
+          "Heritage ambiance",
+          "Panoramic views",
+          "Multiple courtyards",
+          "Accommodation available",
+          "Royal decor",
+          "Traditional architecture"
+        ],
+        "coverImage": "/assets/venues/rajasthan/premium/mehrangarh-fort-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/premium/gallery-1.jpg",
+          "/assets/venues/rajasthan/premium/gallery-2.jpg",
+          "/assets/venues/rajasthan/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "raj-premium-002",
+        "name": "Udai Palace Resort",
+        "city": "Udaipur",
+        "state": "rajasthan",
+        "type": "Palace Resort",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹20,00,000 - ₹35,00,000",
+        "rating": 4.8,
+        "styles": ["Luxury", "Traditional", "Romantic"],
+        "description": "Stunning palace resort overlooking Lake Pichola with white marble architecture and exquisite gardens.",
+        "features": [
+          "Lake views",
+          "Palace architecture",
+          "Lush gardens",
+          "Multiple venues",
+          "Fine dining",
+          "Spa facilities"
+        ],
+        "coverImage": "/assets/venues/rajasthan/premium/udai-palace-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/premium/gallery-4.jpg",
+          "/assets/venues/rajasthan/premium/gallery-5.jpg",
+          "/assets/venues/rajasthan/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "raj-premium-003",
+        "name": "Rambagh Palace",
+        "city": "Jaipur",
+        "state": "rajasthan",
+        "type": "Luxury Palace Hotel",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹22,00,000 - ₹38,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Luxury", "Contemporary"],
+        "description": "Maharaja's palace converted to luxury hotel with sprawling grounds, intricate architecture, and world-class amenities.",
+        "features": [
+          "Palace heritage",
+          "Sprawling grounds",
+          "Royal gardens",
+          "Multiple halls",
+          "Elephant rides",
+          "Polo grounds"
+        ],
+        "coverImage": "/assets/venues/rajasthan/premium/rambagh-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/premium/gallery-7.jpg",
+          "/assets/venues/rajasthan/premium/gallery-8.jpg",
+          "/assets/venues/rajasthan/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "raj-mid-001",
+        "name": "Desert Crown Resort",
+        "city": "Jodhpur",
+        "state": "rajasthan",
+        "type": "Resort",
+        "budget": "mid",
+        "capacity": "400-700",
+        "priceRange": "₹10,00,000 - ₹16,00,000",
+        "rating": 4.5,
+        "styles": ["Contemporary", "Traditional", "Fusion"],
+        "description": "Modern resort with traditional Rajasthani elements, spacious lawns, and authentic desert experience.",
+        "features": [
+          "Desert setting",
+          "Spacious lawns",
+          "Rajasthani decor",
+          "Bonfire arrangements",
+          "Camel rides",
+          "Open-air venues"
+        ],
+        "coverImage": "/assets/venues/rajasthan/mid/desert-crown-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/mid/gallery-1.jpg",
+          "/assets/venues/rajasthan/mid/gallery-2.jpg",
+          "/assets/venues/rajasthan/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "raj-mid-002",
+        "name": "Amber Palace Banquet",
+        "city": "Jaipur",
+        "state": "rajasthan",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "350-600",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.4,
+        "styles": ["Royal", "Traditional", "Modern"],
+        "description": "Well-appointed banquet hall with heritage influence, multiple rooms for different events, and modern facilities.",
+        "features": [
+          "Multiple halls",
+          "Heritage design",
+          "Modern kitchens",
+          "Parking",
+          "Power backup",
+          "Security"
+        ],
+        "coverImage": "/assets/venues/rajasthan/mid/amber-palace-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/mid/gallery-4.jpg",
+          "/assets/venues/rajasthan/mid/gallery-5.jpg",
+          "/assets/venues/rajasthan/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "raj-mid-003",
+        "name": "Haveli Banquet Garden",
+        "city": "Udaipur",
+        "state": "rajasthan",
+        "type": "Garden Banquet",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹9,00,000 - ₹15,00,000",
+        "rating": 4.3,
+        "styles": ["Traditional", "Garden", "Fusion"],
+        "description": "Charming haveli-style venue with manicured gardens, traditional architecture, and intimate settings.",
+        "features": [
+          "Garden ambiance",
+          "Haveli architecture",
+          "Fountain areas",
+          "Indoor backup",
+          "Decorative gardens",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/rajasthan/mid/haveli-banquet-garden/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/mid/gallery-7.jpg",
+          "/assets/venues/rajasthan/mid/gallery-8.jpg",
+          "/assets/venues/rajasthan/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "raj-budget-001",
+        "name": "Sakura Garden Hall",
+        "city": "Jodhpur",
+        "state": "rajasthan",
+        "type": "Garden Venue",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹3,50,000 - ₹6,00,000",
+        "rating": 4.1,
+        "styles": ["Garden", "Traditional", "Simple"],
+        "description": "Affordable garden venue with basic amenities, suitable for intimate gatherings and smaller celebrations.",
+        "features": [
+          "Open gardens",
+          "Basic decor",
+          "Flexible timing",
+          "Affordable rates",
+          "Parking",
+          "Kitchen access"
+        ],
+        "coverImage": "/assets/venues/rajasthan/budget/sakura-garden-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/budget/gallery-1.jpg",
+          "/assets/venues/rajasthan/budget/gallery-2.jpg",
+          "/assets/venues/rajasthan/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "raj-budget-002",
+        "name": "City Center Hall",
+        "city": "Jaipur",
+        "state": "rajasthan",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Modern", "Minimalist", "Functional"],
+        "description": "Well-maintained community hall with essential amenities in city center location, good for small to medium events.",
+        "features": [
+          "Central location",
+          "Basic setup",
+          "Multiple entrances",
+          "Affordable",
+          "Clean premises",
+          "Flexible rental"
+        ],
+        "coverImage": "/assets/venues/rajasthan/budget/city-center-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/budget/gallery-4.jpg",
+          "/assets/venues/rajasthan/budget/gallery-5.jpg",
+          "/assets/venues/rajasthan/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "raj-budget-003",
+        "name": "Riverside Camp Ground",
+        "city": "Udaipur",
+        "state": "rajasthan",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "250-400",
+        "priceRange": "₹3,00,000 - ₹5,50,000",
+        "rating": 4.2,
+        "styles": ["Outdoor", "Rustic", "Adventure"],
+        "description": "Open riverside ground perfect for large gatherings with basic infrastructure and scenic backdrop.",
+        "features": [
+          "Riverside location",
+          "Open space",
+          "Tent-friendly",
+          "Basic amenities",
+          "Parking available",
+          "Scenic views"
+        ],
+        "coverImage": "/assets/venues/rajasthan/budget/riverside-camp-ground/cover.jpg",
+        "gallery": [
+          "/assets/venues/rajasthan/budget/gallery-7.jpg",
+          "/assets/venues/rajasthan/budget/gallery-8.jpg",
+          "/assets/venues/rajasthan/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "goa": {
+    "premium": [
+      {
+        "id": "goa-premium-001",
+        "name": "Taj Holiday Village",
+        "city": "Sinquerim",
+        "state": "goa",
+        "type": "Beach Resort",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹18,00,000 - ₹32,00,000",
+        "rating": 4.8,
+        "styles": ["Beach", "Luxury", "Tropical"],
+        "description": "Luxurious beachfront resort with private beach, lush gardens, and stunning sunset views perfect for beach weddings.",
+        "features": [
+          "Private beach",
+          "Coconut palms",
+          "Water sports",
+          "Fine dining",
+          "Spa",
+          "Poolside venues"
+        ],
+        "coverImage": "/assets/venues/goa/premium/taj-holiday-village/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/premium/gallery-1.jpg",
+          "/assets/venues/goa/premium/gallery-2.jpg",
+          "/assets/venues/goa/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "goa-premium-002",
+        "name": "Leela Goa Luxury",
+        "city": "Mobor",
+        "state": "goa",
+        "type": "Luxury Resort",
+        "budget": "premium",
+        "capacity": "700-1200",
+        "priceRange": "₹20,00,000 - ₹35,00,000",
+        "rating": 4.9,
+        "styles": ["Luxury", "Contemporary", "Beach"],
+        "description": "Five-star luxury resort with multiple venues, pristine beaches, and world-class hospitality services.",
+        "features": [
+          "Multiple venues",
+          "Beach access",
+          "Championship golf",
+          "Multiple pools",
+          "Fine dining",
+          "Elephant experiences"
+        ],
+        "coverImage": "/assets/venues/goa/premium/leela-goa-luxury/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/premium/gallery-4.jpg",
+          "/assets/venues/goa/premium/gallery-5.jpg",
+          "/assets/venues/goa/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "goa-premium-003",
+        "name": "Cidade De Goa Heritage",
+        "city": "Vainguinim",
+        "state": "goa",
+        "type": "Heritage Resort",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹17,00,000 - ₹30,00,000",
+        "rating": 4.7,
+        "styles": ["Heritage", "Portuguese", "Exotic"],
+        "description": "Portuguese-influenced heritage property with exotic gardens, charming architecture, and unique cultural ambiance.",
+        "features": [
+          "Heritage architecture",
+          "Lush gardens",
+          "Water features",
+          "Multiple venues",
+          "Cultural shows",
+          "Traditional design"
+        ],
+        "coverImage": "/assets/venues/goa/premium/cidade-de-goa-heritage/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/premium/gallery-7.jpg",
+          "/assets/venues/goa/premium/gallery-8.jpg",
+          "/assets/venues/goa/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "goa-mid-001",
+        "name": "Beach Breeze Resort",
+        "city": "Baga",
+        "state": "goa",
+        "type": "Beach Resort",
+        "budget": "mid",
+        "capacity": "300-600",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.4,
+        "styles": ["Beach", "Casual", "Modern"],
+        "description": "Comfortable beachfront resort with modern amenities, relaxed vibe, and good value for beach weddings.",
+        "features": [
+          "Beach access",
+          "Open lawns",
+          "Pool area",
+          "Multi-cuisine dining",
+          "Room packages",
+          "Beach bars"
+        ],
+        "coverImage": "/assets/venues/goa/mid/beach-breeze-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/mid/gallery-1.jpg",
+          "/assets/venues/goa/mid/gallery-2.jpg",
+          "/assets/venues/goa/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "goa-mid-002",
+        "name": "Riverside Garden Venue",
+        "city": "Panjim",
+        "state": "goa",
+        "type": "Garden Banquet",
+        "budget": "mid",
+        "capacity": "250-500",
+        "priceRange": "₹6,50,000 - ₹12,00,000",
+        "rating": 4.3,
+        "styles": ["Garden", "River-view", "Fusion"],
+        "description": "Scenic riverside garden venue with modern facilities, Goan influence, and picturesque surroundings.",
+        "features": [
+          "Riverside views",
+          "Manicured gardens",
+          "Indoor backup",
+          "Catering kitchen",
+          "Parking",
+          "Flexible decor"
+        ],
+        "coverImage": "/assets/venues/goa/mid/riverside-garden-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/mid/gallery-4.jpg",
+          "/assets/venues/goa/mid/gallery-5.jpg",
+          "/assets/venues/goa/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "goa-mid-003",
+        "name": "Mango Orchard Banquet",
+        "city": "Candolim",
+        "state": "goa",
+        "type": "Orchard Venue",
+        "budget": "mid",
+        "capacity": "280-550",
+        "priceRange": "₹7,50,000 - ₹13,00,000",
+        "rating": 4.2,
+        "styles": ["Rustic", "Garden", "Tropical"],
+        "description": "Unique mango orchard venue with tropical ambiance, natural shade, and authentic Goan charm.",
+        "features": [
+          "Tropical setting",
+          "Natural shade",
+          "Open spaces",
+          "Indoor pavilion",
+          "Farm-to-table catering",
+          "Photography spots"
+        ],
+        "coverImage": "/assets/venues/goa/mid/mango-orchard-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/mid/gallery-7.jpg",
+          "/assets/venues/goa/mid/gallery-8.jpg",
+          "/assets/venues/goa/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "goa-budget-001",
+        "name": "Shack Village Hall",
+        "city": "Colva",
+        "state": "goa",
+        "type": "Community Venue",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,80,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Casual", "Beach-style", "Relaxed"],
+        "description": "Casual community venue with beach-town charm, basic amenities, perfect for intimate beach celebrations.",
+        "features": [
+          "Beach proximity",
+          "Simple decor",
+          "Open layout",
+          "Affordable",
+          "Beach access",
+          "Casual vibe"
+        ],
+        "coverImage": "/assets/venues/goa/budget/shack-village-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/budget/gallery-1.jpg",
+          "/assets/venues/goa/budget/gallery-2.jpg",
+          "/assets/venues/goa/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "goa-budget-002",
+        "name": "Palm Tree Banquet",
+        "city": "Arpora",
+        "state": "goa",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹3,00,000 - ₹5,50,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Rustic", "Tropical"],
+        "description": "Open ground surrounded by palm trees with basic setup facilities and authentic Goan atmosphere.",
+        "features": [
+          "Palm trees",
+          "Open space",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Natural ambiance",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/goa/budget/palm-tree-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/budget/gallery-4.jpg",
+          "/assets/venues/goa/budget/gallery-5.jpg",
+          "/assets/venues/goa/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "goa-budget-003",
+        "name": "Local Community Pavilion",
+        "city": "Palolem",
+        "state": "goa",
+        "type": "Pavilion",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹2,00,000 - ₹4,50,000",
+        "rating": 3.9,
+        "styles": ["Simple", "Casual", "Minimal"],
+        "description": "Basic community pavilion with essential setup, suitable for small intimate ceremonies and gatherings.",
+        "features": [
+          "Simple structure",
+          "Basic facilities",
+          "Affordable rates",
+          "Flexible timing",
+          "Parking available",
+          "Local management"
+        ],
+        "coverImage": "/assets/venues/goa/budget/local-community-pavilion/cover.jpg",
+        "gallery": [
+          "/assets/venues/goa/budget/gallery-7.jpg",
+          "/assets/venues/goa/budget/gallery-8.jpg",
+          "/assets/venues/goa/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "kerala": {
+    "premium": [
+      {
+        "id": "kerala-premium-001",
+        "name": "Backwater Palace Resort",
+        "city": "Kumarakom",
+        "state": "kerala",
+        "type": "Luxury Resort",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹16,00,000 - ₹28,00,000",
+        "rating": 4.8,
+        "styles": ["Luxury", "Backwater", "Tropical"],
+        "description": "Elegant backwater resort with houseboats, lush gardens, and serene water views - perfect for romantic ceremonies.",
+        "features": [
+          "Backwater views",
+          "Houseboats",
+          "Ayurveda center",
+          "Spa",
+          "Water activities",
+          "Organic gardens"
+        ],
+        "coverImage": "/assets/venues/kerala/premium/backwater-palace-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/premium/gallery-1.jpg",
+          "/assets/venues/kerala/premium/gallery-2.jpg",
+          "/assets/venues/kerala/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "kerala-premium-002",
+        "name": "Tea Garden Grand Estate",
+        "city": "Munnar",
+        "state": "kerala",
+        "type": "Heritage Estate",
+        "budget": "premium",
+        "capacity": "400-800",
+        "priceRange": "₹15,00,000 - ₹26,00,000",
+        "rating": 4.7,
+        "styles": ["Heritage", "Mountain", "Romantic"],
+        "description": "Sprawling tea estate at hill station with misty mountain views, colonial architecture, and green landscapes.",
+        "features": [
+          "Mountain views",
+          "Tea gardens",
+          "Colonial mansion",
+          "Adventure activities",
+          "Fine dining",
+          "Sunset points"
+        ],
+        "coverImage": "/assets/venues/kerala/premium/tea-garden-grand-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/premium/gallery-4.jpg",
+          "/assets/venues/kerala/premium/gallery-5.jpg",
+          "/assets/venues/kerala/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "kerala-premium-003",
+        "name": "Spice Garden Palace",
+        "city": "Kochi",
+        "state": "kerala",
+        "type": "Heritage Palace",
+        "budget": "premium",
+        "capacity": "550-950",
+        "priceRange": "₹17,00,000 - ₹29,00,000",
+        "rating": 4.9,
+        "styles": ["Heritage", "Exotic", "Luxury"],
+        "description": "Historic palace surrounded by aromatic spice gardens, showcasing Kerala's rich cultural heritage with modern comforts.",
+        "features": [
+          "Spice gardens",
+          "Palace architecture",
+          "Heritage rooms",
+          "Cultural shows",
+          "Ayurvedic facilities",
+          "Water features"
+        ],
+        "coverImage": "/assets/venues/kerala/premium/spice-garden-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/premium/gallery-7.jpg",
+          "/assets/venues/kerala/premium/gallery-8.jpg",
+          "/assets/venues/kerala/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "kerala-mid-001",
+        "name": "Lagoon View Garden Resort",
+        "city": "Alleppey",
+        "state": "kerala",
+        "type": "Garden Resort",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹7,50,000 - ₹13,00,000",
+        "rating": 4.4,
+        "styles": ["Garden", "Backwater", "Tropical"],
+        "description": "Serene garden resort overlooking lagoons with Kerala-style architecture and natural beauty.",
+        "features": [
+          "Lagoon views",
+          "Garden ambiance",
+          "Kerala-style cottages",
+          "Boat facilities",
+          "Ayurveda",
+          "Catering kitchen"
+        ],
+        "coverImage": "/assets/venues/kerala/mid/lagoon-view-garden-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/mid/gallery-1.jpg",
+          "/assets/venues/kerala/mid/gallery-2.jpg",
+          "/assets/venues/kerala/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "kerala-mid-002",
+        "name": "Hill Station Banquet Hall",
+        "city": "Wayanad",
+        "state": "kerala",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "250-500",
+        "priceRange": "₹6,50,000 - ₹11,50,000",
+        "rating": 4.3,
+        "styles": ["Mountain", "Contemporary", "Natural"],
+        "description": "Modern banquet hall in hill station with scenic views, cool climate, and well-maintained interiors.",
+        "features": [
+          "Hill views",
+          "Cool climate",
+          "Modern facilities",
+          "Parking",
+          "Catering options",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/kerala/mid/hill-station-banquet-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/mid/gallery-4.jpg",
+          "/assets/venues/kerala/mid/gallery-5.jpg",
+          "/assets/venues/kerala/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "kerala-mid-003",
+        "name": "Coconut Grove Venue",
+        "city": "Thiruvananthapuram",
+        "state": "kerala",
+        "type": "Garden Venue",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,50,000",
+        "rating": 4.2,
+        "styles": ["Tropical", "Garden", "Rustic"],
+        "description": "Charming venue nestled in coconut groves with authentic Kerala ambiance and lush green surroundings.",
+        "features": [
+          "Coconut groves",
+          "Green landscapes",
+          "Open spaces",
+          "Indoor pavilion",
+          "Catering kitchen",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/kerala/mid/coconut-grove-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/mid/gallery-7.jpg",
+          "/assets/venues/kerala/mid/gallery-8.jpg",
+          "/assets/venues/kerala/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "kerala-budget-001",
+        "name": "Village Community Hall",
+        "city": "Kollam",
+        "state": "kerala",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹4,80,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Traditional", "Community"],
+        "description": "Basic community hall with simple arrangements, perfect for intimate Kerala-style ceremonies.",
+        "features": [
+          "Simple setup",
+          "Local management",
+          "Flexible timing",
+          "Kitchen facilities",
+          "Parking",
+          "Affordable rates"
+        ],
+        "coverImage": "/assets/venues/kerala/budget/village-community-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/budget/gallery-1.jpg",
+          "/assets/venues/kerala/budget/gallery-2.jpg",
+          "/assets/venues/kerala/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "kerala-budget-002",
+        "name": "Paddy Field Open Ground",
+        "city": "Idukki",
+        "state": "kerala",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,80,000 - ₹5,00,000",
+        "rating": 4.1,
+        "styles": ["Rustic", "Outdoor", "Authentic"],
+        "description": "Open paddy field venue with authentic Kerala rural charm and natural scenic beauty.",
+        "features": [
+          "Paddy fields",
+          "Natural beauty",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Organic ambiance",
+          "Peaceful setting"
+        ],
+        "coverImage": "/assets/venues/kerala/budget/paddy-field-open-ground/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/budget/gallery-4.jpg",
+          "/assets/venues/kerala/budget/gallery-5.jpg",
+          "/assets/venues/kerala/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "kerala-budget-003",
+        "name": "Local Mosque Courtyard",
+        "city": "Kottayam",
+        "state": "kerala",
+        "type": "Community Space",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.9,
+        "styles": ["Traditional", "Simple", "Cultural"],
+        "description": "Traditional community space with basic facilities and cultural setting for intimate gatherings.",
+        "features": [
+          "Cultural setting",
+          "Basic amenities",
+          "Traditional setup",
+          "Affordable",
+          "Community support",
+          "Simple arrangements"
+        ],
+        "coverImage": "/assets/venues/kerala/budget/local-mosque-courtyard/cover.jpg",
+        "gallery": [
+          "/assets/venues/kerala/budget/gallery-7.jpg",
+          "/assets/venues/kerala/budget/gallery-8.jpg",
+          "/assets/venues/kerala/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "karnataka": {
+    "premium": [
+      {
+        "id": "karnataka-premium-001",
+        "name": "Bangalore Palace Grounds",
+        "city": "Bangalore",
+        "state": "karnataka",
+        "type": "Palace Grounds",
+        "budget": "premium",
+        "capacity": "800-1200",
+        "priceRange": "₹24,00,000 - ₹38,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Heritage", "Grand"],
+        "description": "Historic palace grounds with magnificent architecture, sprawling lawns, and royal ambiance perfect for grand celebrations.",
+        "features": [
+          "Palace architecture",
+          "Spacious lawns",
+          "Multiple venues",
+          "Heritage settings",
+          "Royal gardens",
+          "Ceremonial areas"
+        ],
+        "coverImage": "/assets/venues/karnataka/premium/bangalore-palace-grounds/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/premium/gallery-1.jpg",
+          "/assets/venues/karnataka/premium/gallery-2.jpg",
+          "/assets/venues/karnataka/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "karnataka-premium-002",
+        "name": "Coorg Hill Station Resort",
+        "city": "Coorg",
+        "state": "karnataka",
+        "type": "Hill Resort",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹16,00,000 - ₹28,00,000",
+        "rating": 4.8,
+        "styles": ["Mountain", "Luxury", "Romantic"],
+        "description": "Luxurious hill station resort surrounded by coffee plantations, misty mountains, and serene landscapes.",
+        "features": [
+          "Mountain views",
+          "Coffee plantations",
+          "Adventure activities",
+          "Fine dining",
+          "Spa",
+          "Photography spots"
+        ],
+        "coverImage": "/assets/venues/karnataka/premium/coorg-hill-station-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/premium/gallery-4.jpg",
+          "/assets/venues/karnataka/premium/gallery-5.jpg",
+          "/assets/venues/karnataka/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "karnataka-premium-003",
+        "name": "Mysore Royal Estate",
+        "city": "Mysore",
+        "state": "karnataka",
+        "type": "Heritage Estate",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹18,00,000 - ₹31,00,000",
+        "rating": 4.8,
+        "styles": ["Royal", "Heritage", "Traditional"],
+        "description": "Royal estate with exquisite architecture, traditional décor, and maharaja-style hospitality.",
+        "features": [
+          "Royal palace",
+          "Traditional architecture",
+          "Manicured gardens",
+          "Multiple halls",
+          "Heritage rooms",
+          "Traditional cuisine"
+        ],
+        "coverImage": "/assets/venues/karnataka/premium/mysore-royal-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/premium/gallery-7.jpg",
+          "/assets/venues/karnataka/premium/gallery-8.jpg",
+          "/assets/venues/karnataka/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "karnataka-mid-001",
+        "name": "Garden City Resort",
+        "city": "Bangalore",
+        "state": "karnataka",
+        "type": "Resort",
+        "budget": "mid",
+        "capacity": "350-650",
+        "priceRange": "₹8,50,000 - ₹15,00,000",
+        "rating": 4.4,
+        "styles": ["Garden", "Contemporary", "Modern"],
+        "description": "Contemporary resort with lush gardens, modern facilities, and good accessibility in city center.",
+        "features": [
+          "Beautiful gardens",
+          "Modern amenities",
+          "Multi-cuisine dining",
+          "Pool area",
+          "Parking",
+          "City proximity"
+        ],
+        "coverImage": "/assets/venues/karnataka/mid/garden-city-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/mid/gallery-1.jpg",
+          "/assets/venues/karnataka/mid/gallery-2.jpg",
+          "/assets/venues/karnataka/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "karnataka-mid-002",
+        "name": "Plantation Bungalow Venue",
+        "city": "Kodagu",
+        "state": "karnataka",
+        "type": "Bungalow Venue",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,50,000",
+        "rating": 4.3,
+        "styles": ["Rural", "Plantation", "Rustic"],
+        "description": "Charming plantation bungalow with coffee and spice gardens, authentic rural experience with modern facilities.",
+        "features": [
+          "Plantation setting",
+          "Coffee gardens",
+          "Spacious grounds",
+          "Heritage bungalow",
+          "Organic catering",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/karnataka/mid/plantation-bungalow-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/mid/gallery-4.jpg",
+          "/assets/venues/karnataka/mid/gallery-5.jpg",
+          "/assets/venues/karnataka/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "karnataka-mid-003",
+        "name": "Waterfall Banquet Hall",
+        "city": "Hassan",
+        "state": "karnataka",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹7,50,000 - ₹13,50,000",
+        "rating": 4.2,
+        "styles": ["Nature", "Contemporary", "Scenic"],
+        "description": "Well-designed banquet hall near scenic waterfalls with natural ambiance and modern facilities.",
+        "features": [
+          "Waterfall views",
+          "Natural setting",
+          "Modern halls",
+          "Flexible decor",
+          "Catering kitchen",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/karnataka/mid/waterfall-banquet-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/mid/gallery-7.jpg",
+          "/assets/venues/karnataka/mid/gallery-8.jpg",
+          "/assets/venues/karnataka/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "karnataka-budget-001",
+        "name": "Community Pavilion Hall",
+        "city": "Bangalore",
+        "state": "karnataka",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Functional", "Affordable"],
+        "description": "Basic community hall with essential amenities, suitable for small to medium-sized celebrations.",
+        "features": [
+          "Simple setup",
+          "Basic facilities",
+          "Flexible timing",
+          "Kitchen access",
+          "Parking",
+          "Affordable"
+        ],
+        "coverImage": "/assets/venues/karnataka/budget/community-pavilion-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/budget/gallery-1.jpg",
+          "/assets/venues/karnataka/budget/gallery-2.jpg",
+          "/assets/venues/karnataka/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "karnataka-budget-002",
+        "name": "School Grounds Venue",
+        "city": "Mysore",
+        "state": "karnataka",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,80,000 - ₹5,20,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Open", "Spacious"],
+        "description": "Spacious open ground suitable for tent setup and outdoor arrangements at affordable rates.",
+        "features": [
+          "Open space",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Basic setup",
+          "Parking",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/karnataka/budget/school-grounds-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/budget/gallery-4.jpg",
+          "/assets/venues/karnataka/budget/gallery-5.jpg",
+          "/assets/venues/karnataka/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "karnataka-budget-003",
+        "name": "Farm Field Setup",
+        "city": "Kodagu",
+        "state": "karnataka",
+        "type": "Farm Ground",
+        "budget": "budget",
+        "capacity": "180-350",
+        "priceRange": "₹2,20,000 - ₹4,50,000",
+        "rating": 3.9,
+        "styles": ["Rustic", "Farm", "Natural"],
+        "description": "Agricultural farm ground with natural scenery, suitable for outdoor celebrations with basic setup.",
+        "features": [
+          "Farm setting",
+          "Natural ambiance",
+          "Tent-friendly",
+          "Affordable rates",
+          "Scenic views",
+          "Simple arrangements"
+        ],
+        "coverImage": "/assets/venues/karnataka/budget/farm-field-setup/cover.jpg",
+        "gallery": [
+          "/assets/venues/karnataka/budget/gallery-7.jpg",
+          "/assets/venues/karnataka/budget/gallery-8.jpg",
+          "/assets/venues/karnataka/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "tamil-nadu": {
+    "premium": [
+      {
+        "id": "tamil-nadu-premium-001",
+        "name": "Ooty Hill Palace Resort",
+        "city": "Ooty",
+        "state": "tamil-nadu",
+        "type": "Hill Resort",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹18,00,000 - ₹30,00,000",
+        "rating": 4.8,
+        "styles": ["Mountain", "Luxury", "Romantic"],
+        "description": "Prestigious hill station resort with colonial charm, botanical gardens, and breathtaking Nilgiri mountain views.",
+        "features": [
+          "Mountain views",
+          "Botanical gardens",
+          "Colonial architecture",
+          "Adventure activities",
+          "Fine dining",
+          "Spa"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/premium/ooty-hill-palace-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/premium/gallery-1.jpg",
+          "/assets/venues/tamil-nadu/premium/gallery-2.jpg",
+          "/assets/venues/tamil-nadu/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "tamil-nadu-premium-002",
+        "name": "Chennai Grand Palace",
+        "city": "Chennai",
+        "state": "tamil-nadu",
+        "type": "Luxury Palace",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹20,00,000 - ₹34,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Heritage", "Luxurious"],
+        "description": "Magnificent heritage palace with traditional Dravidian architecture, multiple event spaces, and world-class amenities.",
+        "features": [
+          "Palace heritage",
+          "Multiple venues",
+          "Dravidian architecture",
+          "Heritage rooms",
+          "Fine dining",
+          "VIP services"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/premium/chennai-grand-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/premium/gallery-4.jpg",
+          "/assets/venues/tamil-nadu/premium/gallery-5.jpg",
+          "/assets/venues/tamil-nadu/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "tamil-nadu-premium-003",
+        "name": "Temple Town Heritage Estate",
+        "city": "Madurai",
+        "state": "tamil-nadu",
+        "type": "Heritage Estate",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹16,00,000 - ₹28,00,000",
+        "rating": 4.7,
+        "styles": ["Heritage", "Temple-inspired", "Traditional"],
+        "description": "Exquisite heritage estate with temple-inspired architecture, traditional courtyards, and cultural ambiance.",
+        "features": [
+          "Temple architecture",
+          "Traditional design",
+          "Cultural settings",
+          "Heritage gardens",
+          "Multiple spaces",
+          "Traditional cuisine"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/premium/temple-town-heritage-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/premium/gallery-7.jpg",
+          "/assets/venues/tamil-nadu/premium/gallery-8.jpg",
+          "/assets/venues/tamil-nadu/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "tamil-nadu-mid-001",
+        "name": "Coimbatore Garden Banquet",
+        "city": "Coimbatore",
+        "state": "tamil-nadu",
+        "type": "Garden Banquet",
+        "budget": "mid",
+        "capacity": "300-600",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.4,
+        "styles": ["Garden", "Contemporary", "Modern"],
+        "description": "Well-maintained garden venue with contemporary facilities, manicured gardens, and good accessibility.",
+        "features": [
+          "Beautiful gardens",
+          "Modern setup",
+          "Multiple halls",
+          "Catering kitchen",
+          "Parking",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/mid/coimbatore-garden-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/mid/gallery-1.jpg",
+          "/assets/venues/tamil-nadu/mid/gallery-2.jpg",
+          "/assets/venues/tamil-nadu/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "tamil-nadu-mid-002",
+        "name": "Nilgiri Bungalow Venue",
+        "city": "Coonoor",
+        "state": "tamil-nadu",
+        "type": "Bungalow Venue",
+        "budget": "mid",
+        "capacity": "250-500",
+        "priceRange": "₹6,50,000 - ₹12,00,000",
+        "rating": 4.3,
+        "styles": ["Hill-station", "Rustic", "Intimate"],
+        "description": "Charming hill station bungalow with tea plantation views, cool climate, and authentic mountain experience.",
+        "features": [
+          "Tea garden views",
+          "Cool climate",
+          "Hill setting",
+          "Heritage bungalow",
+          "Spacious grounds",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/mid/nilgiri-bungalow-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/mid/gallery-4.jpg",
+          "/assets/venues/tamil-nadu/mid/gallery-5.jpg",
+          "/assets/venues/tamil-nadu/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "tamil-nadu-mid-003",
+        "name": "Tirupati Riverside Venue",
+        "city": "Tirupati",
+        "state": "tamil-nadu",
+        "type": "Riverside Venue",
+        "budget": "mid",
+        "capacity": "280-530",
+        "priceRange": "₹7,00,000 - ₹12,80,000",
+        "rating": 4.2,
+        "styles": ["Riverside", "Spiritual", "Traditional"],
+        "description": "Scenic riverside venue near sacred temples with spiritual ambiance and natural beauty.",
+        "features": [
+          "Riverside location",
+          "Spiritual setting",
+          "Temple proximity",
+          "Natural views",
+          "Traditional facilities",
+          "Catering options"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/mid/tirupati-riverside-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/mid/gallery-7.jpg",
+          "/assets/venues/tamil-nadu/mid/gallery-8.jpg",
+          "/assets/venues/tamil-nadu/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "tamil-nadu-budget-001",
+        "name": "Local Hall Community Space",
+        "city": "Chennai",
+        "state": "tamil-nadu",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹2,00,000 - ₹4,00,000",
+        "rating": 3.9,
+        "styles": ["Simple", "Traditional", "Affordable"],
+        "description": "Basic community hall with simple arrangements, perfect for intimate traditional ceremonies.",
+        "features": [
+          "Simple setup",
+          "Affordable rates",
+          "Traditional setting",
+          "Basic facilities",
+          "Kitchen access",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/budget/local-hall-community-space/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/budget/gallery-1.jpg",
+          "/assets/venues/tamil-nadu/budget/gallery-2.jpg",
+          "/assets/venues/tamil-nadu/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "tamil-nadu-budget-002",
+        "name": "Rice Field Open Ground",
+        "city": "Salem",
+        "state": "tamil-nadu",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "180-380",
+        "priceRange": "₹2,50,000 - ₹4,80,000",
+        "rating": 4.0,
+        "styles": ["Rustic", "Agricultural", "Outdoor"],
+        "description": "Open agricultural ground with natural scenery, suitable for outdoor tent arrangements.",
+        "features": [
+          "Open space",
+          "Agricultural setting",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Scenic views",
+          "Basic setup"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/budget/rice-field-open-ground/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/budget/gallery-4.jpg",
+          "/assets/venues/tamil-nadu/budget/gallery-5.jpg",
+          "/assets/venues/tamil-nadu/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "tamil-nadu-budget-003",
+        "name": "Village Temple Ground",
+        "city": "Trichy",
+        "state": "tamil-nadu",
+        "type": "Temple Ground",
+        "budget": "budget",
+        "capacity": "150-320",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.8,
+        "styles": ["Traditional", "Spiritual", "Cultural"],
+        "description": "Traditional temple ground setting with spiritual ambiance, perfect for cultural celebrations.",
+        "features": [
+          "Spiritual setting",
+          "Traditional ambiance",
+          "Cultural facilities",
+          "Local support",
+          "Affordable",
+          "Authentic atmosphere"
+        ],
+        "coverImage": "/assets/venues/tamil-nadu/budget/village-temple-ground/cover.jpg",
+        "gallery": [
+          "/assets/venues/tamil-nadu/budget/gallery-7.jpg",
+          "/assets/venues/tamil-nadu/budget/gallery-8.jpg",
+          "/assets/venues/tamil-nadu/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "hyderabad": {
+    "premium": [
+      {
+        "id": "hyderabad-premium-001",
+        "name": "Hyderabad Grand Palace",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Palace Venue",
+        "budget": "premium",
+        "capacity": "800-1300",
+        "priceRange": "₹25,00,000 - ₹40,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Nizam Heritage", "Grand"],
+        "description": "Magnificent Nizam-era palace with stunning architecture, sprawling gardens, and royal atmosphere for extravagant celebrations.",
+        "features": [
+          "Palace heritage",
+          "Nizam architecture",
+          "Multiple venues",
+          "Royal gardens",
+          "Heritage decor",
+          "VIP accommodations"
+        ],
+        "coverImage": "/assets/venues/hyderabad/premium/hyderabad-grand-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/premium/gallery-1.jpg",
+          "/assets/venues/hyderabad/premium/gallery-2.jpg",
+          "/assets/venues/hyderabad/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "hyderabad-premium-002",
+        "name": "Osman Sagar Luxury Resort",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Lakeside Resort",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹22,00,000 - ₹36,00,000",
+        "rating": 4.8,
+        "styles": ["Luxury", "Lakeside", "Modern"],
+        "description": "Ultra-luxury resort on lake shores with contemporary design, infinity pools, and panoramic water views.",
+        "features": [
+          "Lake views",
+          "Luxury amenities",
+          "Multiple event spaces",
+          "Fine dining",
+          "Spa",
+          "Water sports"
+        ],
+        "coverImage": "/assets/venues/hyderabad/premium/osman-sagar-luxury-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/premium/gallery-4.jpg",
+          "/assets/venues/hyderabad/premium/gallery-5.jpg",
+          "/assets/venues/hyderabad/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "hyderabad-premium-003",
+        "name": "Falaknuma Palace Estate",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Heritage Palace",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹20,00,000 - ₹35,00,000",
+        "rating": 4.9,
+        "styles": ["Heritage", "Palace", "Romantic"],
+        "description": "Spectacular 19th-century palace perched on hilltop with city views, ornate architecture, and timeless elegance.",
+        "features": [
+          "Palace architecture",
+          "Hilltop location",
+          "City views",
+          "Heritage rooms",
+          "Ornate interiors",
+          "Traditional styling"
+        ],
+        "coverImage": "/assets/venues/hyderabad/premium/falaknuma-palace-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/premium/gallery-7.jpg",
+          "/assets/venues/hyderabad/premium/gallery-8.jpg",
+          "/assets/venues/hyderabad/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "hyderabad-mid-001",
+        "name": "Tech Park Banquet Hall",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "350-650",
+        "priceRange": "₹8,50,000 - ₹15,00,000",
+        "rating": 4.4,
+        "styles": ["Modern", "Contemporary", "Elegant"],
+        "description": "Modern banquet hall in upscale area with contemporary design, multiple rooms, and comprehensive facilities.",
+        "features": [
+          "Modern design",
+          "Multiple halls",
+          "Contemporary decor",
+          "Catering kitchen",
+          "Parking",
+          "Technical support"
+        ],
+        "coverImage": "/assets/venues/hyderabad/mid/tech-park-banquet-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/mid/gallery-1.jpg",
+          "/assets/venues/hyderabad/mid/gallery-2.jpg",
+          "/assets/venues/hyderabad/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "hyderabad-mid-002",
+        "name": "Garden Valley Venue",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Garden Venue",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹7,50,000 - ₹13,50,000",
+        "rating": 4.3,
+        "styles": ["Garden", "Romantic", "Outdoor"],
+        "description": "Beautiful garden venue with landscaped grounds, water features, and flexible outdoor spaces.",
+        "features": [
+          "Manicured gardens",
+          "Water features",
+          "Outdoor pavilion",
+          "Catering options",
+          "Parking",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/hyderabad/mid/garden-valley-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/mid/gallery-4.jpg",
+          "/assets/venues/hyderabad/mid/gallery-5.jpg",
+          "/assets/venues/hyderabad/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "hyderabad-mid-003",
+        "name": "Heritage Haveli Banquet",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Heritage Venue",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,80,000",
+        "rating": 4.2,
+        "styles": ["Heritage", "Traditional", "Fusion"],
+        "description": "Charming heritage haveli with traditional architecture, courtyard settings, and cultural ambiance.",
+        "features": [
+          "Heritage architecture",
+          "Courtyard layout",
+          "Traditional design",
+          "Multiple spaces",
+          "Cultural facilities",
+          "Authentic decor"
+        ],
+        "coverImage": "/assets/venues/hyderabad/mid/heritage-haveli-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/mid/gallery-7.jpg",
+          "/assets/venues/hyderabad/mid/gallery-8.jpg",
+          "/assets/venues/hyderabad/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "hyderabad-budget-001",
+        "name": "Community Center Hall",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Modern", "Functional"],
+        "description": "Well-maintained community hall with basic amenities, good for smaller celebrations.",
+        "features": [
+          "Simple setup",
+          "Basic facilities",
+          "Affordable rates",
+          "Kitchen access",
+          "Parking",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/hyderabad/budget/community-center-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/budget/gallery-1.jpg",
+          "/assets/venues/hyderabad/budget/gallery-2.jpg",
+          "/assets/venues/hyderabad/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "hyderabad-budget-002",
+        "name": "Open Ground Venue",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,80,000 - ₹5,20,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Spacious", "Flexible"],
+        "description": "Large open ground suitable for tent setups and outdoor celebrations with basic infrastructure.",
+        "features": [
+          "Open space",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Basic setup",
+          "Parking",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/hyderabad/budget/open-ground-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/budget/gallery-4.jpg",
+          "/assets/venues/hyderabad/budget/gallery-5.jpg",
+          "/assets/venues/hyderabad/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "hyderabad-budget-003",
+        "name": "Outdoor Park Pavilion",
+        "city": "Hyderabad",
+        "state": "hyderabad",
+        "type": "Park Pavilion",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.9,
+        "styles": ["Rustic", "Park-style", "Natural"],
+        "description": "Public park pavilion with natural ambiance, suitable for informal outdoor celebrations.",
+        "features": [
+          "Park setting",
+          "Natural scenery",
+          "Basic facilities",
+          "Affordable",
+          "Open spaces",
+          "Simple arrangements"
+        ],
+        "coverImage": "/assets/venues/hyderabad/budget/outdoor-park-pavilion/cover.jpg",
+        "gallery": [
+          "/assets/venues/hyderabad/budget/gallery-7.jpg",
+          "/assets/venues/hyderabad/budget/gallery-8.jpg",
+          "/assets/venues/hyderabad/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "delhi": {
+    "premium": [
+      {
+        "id": "delhi-premium-001",
+        "name": "Delhi Heritage Palace",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Palace Venue",
+        "budget": "premium",
+        "capacity": "800-1200",
+        "priceRange": "₹26,00,000 - ₹42,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Heritage", "Grand"],
+        "description": "Iconic palace with colonial architecture, sprawling manicured gardens, and imperial ambiance.",
+        "features": [
+          "Palace heritage",
+          "Manicured gardens",
+          "Multiple venues",
+          "Heritage decor",
+          "Royal courtyard",
+          "VIP services"
+        ],
+        "coverImage": "/assets/venues/delhi/premium/delhi-heritage-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/premium/gallery-1.jpg",
+          "/assets/venues/delhi/premium/gallery-2.jpg",
+          "/assets/venues/delhi/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "delhi-premium-002",
+        "name": "Taj Banquet Grand",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Luxury Banquet",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹23,00,000 - ₹38,00,000",
+        "rating": 4.8,
+        "styles": ["Luxury", "Contemporary", "Elegant"],
+        "description": "State-of-the-art luxury banquet complex with world-class facilities and exquisite interiors.",
+        "features": [
+          "Multiple halls",
+          "Modern facilities",
+          "Fine dining",
+          "Luxury decor",
+          "VIP suites",
+          "Technical support"
+        ],
+        "coverImage": "/assets/venues/delhi/premium/taj-banquet-grand/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/premium/gallery-4.jpg",
+          "/assets/venues/delhi/premium/gallery-5.jpg",
+          "/assets/venues/delhi/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "delhi-premium-003",
+        "name": "The Royal Lawn Estate",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Lawn Estate",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹20,00,000 - ₹36,00,000",
+        "rating": 4.8,
+        "styles": ["Garden", "Royal", "Luxurious"],
+        "description": "Premium lawn estate with manicured gardens, sophisticated design, and comprehensive event management.",
+        "features": [
+          "Manicured lawns",
+          "Elegant gardens",
+          "Indoor backup",
+          "Premium facilities",
+          "Catering options",
+          "Security"
+        ],
+        "coverImage": "/assets/venues/delhi/premium/the-royal-lawn-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/premium/gallery-7.jpg",
+          "/assets/venues/delhi/premium/gallery-8.jpg",
+          "/assets/venues/delhi/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "delhi-mid-001",
+        "name": "Modern City Banquet",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "350-650",
+        "priceRange": "₹9,00,000 - ₹15,50,000",
+        "rating": 4.4,
+        "styles": ["Modern", "Contemporary", "Professional"],
+        "description": "Contemporary banquet hall in central location with modern amenities and flexible space configuration.",
+        "features": [
+          "Modern design",
+          "Multiple rooms",
+          "Central location",
+          "Catering kitchen",
+          "Parking",
+          "Event management"
+        ],
+        "coverImage": "/assets/venues/delhi/mid/modern-city-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/mid/gallery-1.jpg",
+          "/assets/venues/delhi/mid/gallery-2.jpg",
+          "/assets/venues/delhi/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "delhi-mid-002",
+        "name": "Garden Retreat Banquet",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Garden Banquet",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.3,
+        "styles": ["Garden", "Contemporary", "Romantic"],
+        "description": "Charming garden venue with landscaped surroundings, natural beauty, and modern facilities.",
+        "features": [
+          "Beautiful gardens",
+          "Landscaped grounds",
+          "Outdoor pavilion",
+          "Catering options",
+          "Photography areas",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/delhi/mid/garden-retreat-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/mid/gallery-4.jpg",
+          "/assets/venues/delhi/mid/gallery-5.jpg",
+          "/assets/venues/delhi/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "delhi-mid-003",
+        "name": "Heritage Manor Venue",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Heritage Venue",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,50,000 - ₹13,50,000",
+        "rating": 4.2,
+        "styles": ["Heritage", "Traditional", "Romantic"],
+        "description": "Historic manor house with period architecture, traditional design, and classic elegance.",
+        "features": [
+          "Heritage building",
+          "Period architecture",
+          "Traditional decor",
+          "Multiple spaces",
+          "Charming interiors",
+          "Historical ambiance"
+        ],
+        "coverImage": "/assets/venues/delhi/mid/heritage-manor-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/mid/gallery-7.jpg",
+          "/assets/venues/delhi/mid/gallery-8.jpg",
+          "/assets/venues/delhi/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "delhi-budget-001",
+        "name": "Community Hall Central",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Functional", "Central"],
+        "description": "Basic community hall in accessible location with simple amenities for smaller events.",
+        "features": [
+          "Central location",
+          "Simple setup",
+          "Basic amenities",
+          "Affordable",
+          "Kitchen access",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/delhi/budget/community-hall-central/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/budget/gallery-1.jpg",
+          "/assets/venues/delhi/budget/gallery-2.jpg",
+          "/assets/venues/delhi/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "delhi-budget-002",
+        "name": "Park Ground Venue",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹3,00,000 - ₹5,50,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Spacious", "Open"],
+        "description": "Large open ground in public park suitable for tent arrangements and outdoor celebrations.",
+        "features": [
+          "Open space",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Green surroundings",
+          "Parking",
+          "Basic setup"
+        ],
+        "coverImage": "/assets/venues/delhi/budget/park-ground-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/budget/gallery-4.jpg",
+          "/assets/venues/delhi/budget/gallery-5.jpg",
+          "/assets/venues/delhi/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "delhi-budget-003",
+        "name": "School Grounds Setup",
+        "city": "New Delhi",
+        "state": "delhi",
+        "type": "School Ground",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.9,
+        "styles": ["Simple", "Outdoor", "Flexible"],
+        "description": "School ground available for weekend celebrations with basic facilities and ample space.",
+        "features": [
+          "Spacious ground",
+          "Basic setup",
+          "Affordable rates",
+          "Flexible timing",
+          "Parking",
+          "Simple arrangements"
+        ],
+        "coverImage": "/assets/venues/delhi/budget/school-grounds-setup/cover.jpg",
+        "gallery": [
+          "/assets/venues/delhi/budget/gallery-7.jpg",
+          "/assets/venues/delhi/budget/gallery-8.jpg",
+          "/assets/venues/delhi/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "maharashtra": {
+    "premium": [
+      {
+        "id": "maharashtra-premium-001",
+        "name": "Mumbai Grand Palace",
+        "city": "Mumbai",
+        "state": "maharashtra",
+        "type": "Palace Venue",
+        "budget": "premium",
+        "capacity": "800-1200",
+        "priceRange": "₹25,00,000 - ₹40,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Luxury", "Grand"],
+        "description": "Prestigious palace venue in heart of Mumbai with sea views, royal architecture, and premium amenities.",
+        "features": [
+          "Sea views",
+          "Palace architecture",
+          "Multiple halls",
+          "Luxury decor",
+          "Fine dining",
+          "Valet parking"
+        ],
+        "coverImage": "/assets/venues/maharashtra/premium/mumbai-grand-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/premium/gallery-1.jpg",
+          "/assets/venues/maharashtra/premium/gallery-2.jpg",
+          "/assets/venues/maharashtra/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "maharashtra-premium-002",
+        "name": "Pune Heritage Estate",
+        "city": "Pune",
+        "state": "maharashtra",
+        "type": "Heritage Estate",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹18,00,000 - ₹32,00,000",
+        "rating": 4.8,
+        "styles": ["Heritage", "Royal", "Romantic"],
+        "description": "Historic estate with Maratha architecture, sprawling grounds, and cultural significance.",
+        "features": [
+          "Heritage building",
+          "Maratha architecture",
+          "Expansive grounds",
+          "Cultural setting",
+          "Traditional decor",
+          "Heritage cuisine"
+        ],
+        "coverImage": "/assets/venues/maharashtra/premium/pune-heritage-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/premium/gallery-4.jpg",
+          "/assets/venues/maharashtra/premium/gallery-5.jpg",
+          "/assets/venues/maharashtra/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "maharashtra-premium-003",
+        "name": "Nashik Vineyard Resort",
+        "city": "Nashik",
+        "state": "maharashtra",
+        "type": "Vineyard Resort",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹16,00,000 - ₹28,00,000",
+        "rating": 4.7,
+        "styles": ["Vineyard", "Romantic", "Exotic"],
+        "description": "Unique vineyard resort with wine experience, scenic vineyards, and gourmet facilities.",
+        "features": [
+          "Vineyard setting",
+          "Wine cellar",
+          "Scenic views",
+          "Fine dining",
+          "Adventure activities",
+          "Scenic photography"
+        ],
+        "coverImage": "/assets/venues/maharashtra/premium/nashik-vineyard-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/premium/gallery-7.jpg",
+          "/assets/venues/maharashtra/premium/gallery-8.jpg",
+          "/assets/venues/maharashtra/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "maharashtra-mid-001",
+        "name": "Mumbai Garden Banquet",
+        "city": "Mumbai",
+        "state": "maharashtra",
+        "type": "Garden Banquet",
+        "budget": "mid",
+        "capacity": "350-650",
+        "priceRange": "₹9,00,000 - ₹15,50,000",
+        "rating": 4.4,
+        "styles": ["Garden", "Contemporary", "Modern"],
+        "description": "Contemporary garden venue in Mumbai suburbs with landscaped gardens and modern facilities.",
+        "features": [
+          "Landscaped gardens",
+          "Modern design",
+          "Suburban location",
+          "Ample parking",
+          "Catering options",
+          "Flexible setup"
+        ],
+        "coverImage": "/assets/venues/maharashtra/mid/mumbai-garden-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/mid/gallery-1.jpg",
+          "/assets/venues/maharashtra/mid/gallery-2.jpg",
+          "/assets/venues/maharashtra/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "maharashtra-mid-002",
+        "name": "Lonavala Hill Resort",
+        "city": "Lonavala",
+        "state": "maharashtra",
+        "type": "Hill Resort",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.3,
+        "styles": ["Mountain", "Romantic", "Nature"],
+        "description": "Scenic hill station resort with misty views, cool climate, and adventure activities.",
+        "features": [
+          "Mountain views",
+          "Cool climate",
+          "Nature trails",
+          "Outdoor activities",
+          "Multiple venues",
+          "Photography spots"
+        ],
+        "coverImage": "/assets/venues/maharashtra/mid/lonavala-hill-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/mid/gallery-4.jpg",
+          "/assets/venues/maharashtra/mid/gallery-5.jpg",
+          "/assets/venues/maharashtra/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "maharashtra-mid-003",
+        "name": "Aurangabad Heritage Banquet",
+        "city": "Aurangabad",
+        "state": "maharashtra",
+        "type": "Heritage Banquet",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,80,000",
+        "rating": 4.2,
+        "styles": ["Heritage", "Historical", "Traditional"],
+        "description": "Heritage venue with Mughal influence, historical significance, and traditional ambiance.",
+        "features": [
+          "Mughal architecture",
+          "Historical setting",
+          "Traditional design",
+          "Cultural facilities",
+          "Heritage decor",
+          "Unique atmosphere"
+        ],
+        "coverImage": "/assets/venues/maharashtra/mid/aurangabad-heritage-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/mid/gallery-7.jpg",
+          "/assets/venues/maharashtra/mid/gallery-8.jpg",
+          "/assets/venues/maharashtra/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "maharashtra-budget-001",
+        "name": "Local Community Hall",
+        "city": "Mumbai",
+        "state": "maharashtra",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Functional", "Accessible"],
+        "description": "Basic community hall in residential area with simple amenities for smaller events.",
+        "features": [
+          "Residential location",
+          "Simple setup",
+          "Basic amenities",
+          "Affordable",
+          "Kitchen facility",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/maharashtra/budget/local-community-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/budget/gallery-1.jpg",
+          "/assets/venues/maharashtra/budget/gallery-2.jpg",
+          "/assets/venues/maharashtra/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "maharashtra-budget-002",
+        "name": "Open Maidan Ground",
+        "city": "Pune",
+        "state": "maharashtra",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,80,000 - ₹5,20,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Spacious", "Open"],
+        "description": "Large open maidan suitable for tent arrangements and outdoor celebrations.",
+        "features": [
+          "Open space",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Green surroundings",
+          "Parking available",
+          "Basic setup"
+        ],
+        "coverImage": "/assets/venues/maharashtra/budget/open-maidan-ground/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/budget/gallery-4.jpg",
+          "/assets/venues/maharashtra/budget/gallery-5.jpg",
+          "/assets/venues/maharashtra/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "maharashtra-budget-003",
+        "name": "Village Ground Venue",
+        "city": "Nashik",
+        "state": "maharashtra",
+        "type": "Village Ground",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.9,
+        "styles": ["Rural", "Rustic", "Simple"],
+        "description": "Village ground with rustic charm, suitable for intimate outdoor ceremonies.",
+        "features": [
+          "Rustic setting",
+          "Simple arrangements",
+          "Affordable",
+          "Natural ambiance",
+          "Community support",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/maharashtra/budget/village-ground-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/maharashtra/budget/gallery-7.jpg",
+          "/assets/venues/maharashtra/budget/gallery-8.jpg",
+          "/assets/venues/maharashtra/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "punjab": {
+    "premium": [
+      {
+        "id": "punjab-premium-001",
+        "name": "Amritsar Golden Palace",
+        "city": "Amritsar",
+        "state": "punjab",
+        "type": "Palace Venue",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹21,00,000 - ₹36,00,000",
+        "rating": 4.8,
+        "styles": ["Royal", "Sikh Heritage", "Grand"],
+        "description": "Historic palace with Sikh heritage influence, magnificent gardens, and traditional Punjabi hospitality.",
+        "features": [
+          "Palace heritage",
+          "Traditional architecture",
+          "Manicured gardens",
+          "Sikh heritage",
+          "Multiple venues",
+          "Fine dining"
+        ],
+        "coverImage": "/assets/venues/punjab/premium/amritsar-golden-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/premium/gallery-1.jpg",
+          "/assets/venues/punjab/premium/gallery-2.jpg",
+          "/assets/venues/punjab/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "punjab-premium-002",
+        "name": "Chandigarh Luxury Resort",
+        "city": "Chandigarh",
+        "state": "punjab",
+        "type": "Luxury Resort",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹18,00,000 - ₹31,00,000",
+        "rating": 4.8,
+        "styles": ["Luxury", "Modern", "Contemporary"],
+        "description": "State-of-the-art luxury resort in planned city with world-class amenities and sophisticated design.",
+        "features": [
+          "Luxury facilities",
+          "Modern design",
+          "Multiple venues",
+          "Fine dining",
+          "Spa",
+          "Planned city location"
+        ],
+        "coverImage": "/assets/venues/punjab/premium/chandigarh-luxury-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/premium/gallery-4.jpg",
+          "/assets/venues/punjab/premium/gallery-5.jpg",
+          "/assets/venues/punjab/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "punjab-premium-003",
+        "name": "Jailandhar Garden Estate",
+        "city": "Jalandhar",
+        "state": "punjab",
+        "type": "Garden Estate",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹16,00,000 - ₹28,00,000",
+        "rating": 4.7,
+        "styles": ["Garden", "Luxury", "Romantic"],
+        "description": "Premium garden estate with extensive lawns, ornamental gardens, and sophisticated amenities.",
+        "features": [
+          "Extensive lawns",
+          "Ornamental gardens",
+          "Luxury facilities",
+          "Multiple spaces",
+          "Fine dining",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/punjab/premium/jailandhar-garden-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/premium/gallery-7.jpg",
+          "/assets/venues/punjab/premium/gallery-8.jpg",
+          "/assets/venues/punjab/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "punjab-mid-001",
+        "name": "Punjabi Culture Banquet",
+        "city": "Amritsar",
+        "state": "punjab",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "300-600",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.4,
+        "styles": ["Cultural", "Traditional", "Modern"],
+        "description": "Contemporary banquet hall with Punjabi cultural elements, modern facilities, and authentic ambiance.",
+        "features": [
+          "Cultural design",
+          "Modern amenities",
+          "Multiple rooms",
+          "Traditional decor",
+          "Catering kitchen",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/punjab/mid/punjabi-culture-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/mid/gallery-1.jpg",
+          "/assets/venues/punjab/mid/gallery-2.jpg",
+          "/assets/venues/punjab/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "punjab-mid-002",
+        "name": "Harvest Garden Venue",
+        "city": "Chandigarh",
+        "state": "punjab",
+        "type": "Garden Venue",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,50,000",
+        "rating": 4.3,
+        "styles": ["Garden", "Contemporary", "Outdoor"],
+        "description": "Beautiful garden venue with seasonal flowers, landscaped grounds, and open-air facilities.",
+        "features": [
+          "Seasonal gardens",
+          "Landscaped grounds",
+          "Outdoor pavilion",
+          "Modern facilities",
+          "Catering options",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/punjab/mid/harvest-garden-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/mid/gallery-4.jpg",
+          "/assets/venues/punjab/mid/gallery-5.jpg",
+          "/assets/venues/punjab/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "punjab-mid-003",
+        "name": "Farm Resort Banquet",
+        "city": "Mohali",
+        "state": "punjab",
+        "type": "Farm Resort",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹7,50,000 - ₹13,50,000",
+        "rating": 4.2,
+        "styles": ["Farm", "Rustic", "Authentic"],
+        "description": "Charming farm resort with agricultural setting, organic catering, and authentic Punjabi hospitality.",
+        "features": [
+          "Farm setting",
+          "Organic catering",
+          "Rustic ambiance",
+          "Open spaces",
+          "Natural beauty",
+          "Local produce"
+        ],
+        "coverImage": "/assets/venues/punjab/mid/farm-resort-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/mid/gallery-7.jpg",
+          "/assets/venues/punjab/mid/gallery-8.jpg",
+          "/assets/venues/punjab/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "punjab-budget-001",
+        "name": "Community Hall Junction",
+        "city": "Amritsar",
+        "state": "punjab",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,20,000 - ₹4,50,000",
+        "rating": 3.9,
+        "styles": ["Simple", "Traditional", "Affordable"],
+        "description": "Basic community hall with simple arrangements, perfect for traditional Punjabi celebrations.",
+        "features": [
+          "Simple setup",
+          "Traditional setting",
+          "Affordable rates",
+          "Kitchen access",
+          "Parking",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/punjab/budget/community-hall-junction/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/budget/gallery-1.jpg",
+          "/assets/venues/punjab/budget/gallery-2.jpg",
+          "/assets/venues/punjab/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "punjab-budget-002",
+        "name": "Agricultural Field Ground",
+        "city": "Jalandhar",
+        "state": "punjab",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,50,000 - ₹4,80,000",
+        "rating": 4.0,
+        "styles": ["Agricultural", "Outdoor", "Spacious"],
+        "description": "Large open agricultural field suitable for outdoor tent arrangements and celebrations.",
+        "features": [
+          "Open field",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Agricultural setting",
+          "Parking available",
+          "Basic setup"
+        ],
+        "coverImage": "/assets/venues/punjab/budget/agricultural-field-ground/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/budget/gallery-4.jpg",
+          "/assets/venues/punjab/budget/gallery-5.jpg",
+          "/assets/venues/punjab/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "punjab-budget-003",
+        "name": "Village Baithak Space",
+        "city": "Chandigarh",
+        "state": "punjab",
+        "type": "Community Space",
+        "budget": "budget",
+        "capacity": "120-280",
+        "priceRange": "₹1,50,000 - ₹3,00,000",
+        "rating": 3.8,
+        "styles": ["Traditional", "Village", "Rustic"],
+        "description": "Traditional village gathering space with authentic Punjabi charm and simple facilities.",
+        "features": [
+          "Traditional setting",
+          "Village ambiance",
+          "Simple facilities",
+          "Affordable",
+          "Community managed",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/punjab/budget/village-baithak-space/cover.jpg",
+        "gallery": [
+          "/assets/venues/punjab/budget/gallery-7.jpg",
+          "/assets/venues/punjab/budget/gallery-8.jpg",
+          "/assets/venues/punjab/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "west-bengal": {
+    "premium": [
+      {
+        "id": "west-bengal-premium-001",
+        "name": "Kolkata Heritage Palace",
+        "city": "Kolkata",
+        "state": "west-bengal",
+        "type": "Palace Venue",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹21,00,000 - ₹36,00,000",
+        "rating": 4.8,
+        "styles": ["Heritage", "Colonial", "Grand"],
+        "description": "Historic palace with colonial architecture, sprawling gardens, and cultural significance.",
+        "features": [
+          "Colonial architecture",
+          "Heritage building",
+          "Spacious gardens",
+          "Multiple halls",
+          "Heritage decor",
+          "Fine dining"
+        ],
+        "coverImage": "/assets/venues/west-bengal/premium/kolkata-heritage-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/premium/gallery-1.jpg",
+          "/assets/venues/west-bengal/premium/gallery-2.jpg",
+          "/assets/venues/west-bengal/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "west-bengal-premium-002",
+        "name": "Darjeeling Mountain Resort",
+        "city": "Darjeeling",
+        "state": "west-bengal",
+        "type": "Mountain Resort",
+        "budget": "premium",
+        "capacity": "500-900",
+        "priceRange": "₹16,00,000 - ₹28,00,000",
+        "rating": 4.7,
+        "styles": ["Mountain", "Luxury", "Romantic"],
+        "description": "Luxurious hill station resort with Himalayan views, tea gardens, and serene mountain ambiance.",
+        "features": [
+          "Mountain views",
+          "Tea gardens",
+          "Alpine setting",
+          "Cool climate",
+          "Adventure activities",
+          "Photography spots"
+        ],
+        "coverImage": "/assets/venues/west-bengal/premium/darjeeling-mountain-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/premium/gallery-4.jpg",
+          "/assets/venues/west-bengal/premium/gallery-5.jpg",
+          "/assets/venues/west-bengal/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "west-bengal-premium-003",
+        "name": "Sundarbans Eco Resort",
+        "city": "Sundarbans",
+        "state": "west-bengal",
+        "type": "Eco Resort",
+        "budget": "premium",
+        "capacity": "450-800",
+        "priceRange": "₹15,00,000 - ₹26,00,000",
+        "rating": 4.6,
+        "styles": ["Eco-friendly", "Exotic", "Nature"],
+        "description": "Unique eco-resort in mangrove forests with exotic wildlife experience and nature-based celebrations.",
+        "features": [
+          "Mangrove setting",
+          "Wildlife viewing",
+          "Eco-friendly",
+          "Unique ambiance",
+          "Adventure activities",
+          "Nature tours"
+        ],
+        "coverImage": "/assets/venues/west-bengal/premium/sundarbans-eco-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/premium/gallery-7.jpg",
+          "/assets/venues/west-bengal/premium/gallery-8.jpg",
+          "/assets/venues/west-bengal/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "west-bengal-mid-001",
+        "name": "Kolkata Garden Banquet",
+        "city": "Kolkata",
+        "state": "west-bengal",
+        "type": "Garden Banquet",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹8,00,000 - ₹14,00,000",
+        "rating": 4.3,
+        "styles": ["Garden", "Contemporary", "Modern"],
+        "description": "Contemporary garden venue with landscaped surroundings, modern facilities, and easy accessibility.",
+        "features": [
+          "Beautiful gardens",
+          "Modern design",
+          "Central location",
+          "Catering kitchen",
+          "Parking",
+          "Flexible setup"
+        ],
+        "coverImage": "/assets/venues/west-bengal/mid/kolkata-garden-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/mid/gallery-1.jpg",
+          "/assets/venues/west-bengal/mid/gallery-2.jpg",
+          "/assets/venues/west-bengal/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "west-bengal-mid-002",
+        "name": "Santiniketan Heritage Hall",
+        "city": "Santiniketan",
+        "state": "west-bengal",
+        "type": "Heritage Hall",
+        "budget": "mid",
+        "capacity": "250-500",
+        "priceRange": "₹6,50,000 - ₹11,50,000",
+        "rating": 4.2,
+        "styles": ["Heritage", "Cultural", "Artistic"],
+        "description": "Cultural heritage venue with artistic architecture, peaceful surroundings, and intellectual ambiance.",
+        "features": [
+          "Heritage building",
+          "Cultural setting",
+          "Artistic design",
+          "Peaceful grounds",
+          "Traditional facilities",
+          "Cultural events"
+        ],
+        "coverImage": "/assets/venues/west-bengal/mid/santiniketan-heritage-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/mid/gallery-4.jpg",
+          "/assets/venues/west-bengal/mid/gallery-5.jpg",
+          "/assets/venues/west-bengal/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "west-bengal-mid-003",
+        "name": "Riverbank Resort Venue",
+        "city": "Howrah",
+        "state": "west-bengal",
+        "type": "Riverside Venue",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,50,000",
+        "rating": 4.1,
+        "styles": ["Riverside", "Romantic", "Scenic"],
+        "description": "Scenic riverside venue on Hooghly river banks with romantic ambiance and natural beauty.",
+        "features": [
+          "River views",
+          "Romantic setting",
+          "Natural scenery",
+          "Open spaces",
+          "Catering options",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/west-bengal/mid/riverbank-resort-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/mid/gallery-7.jpg",
+          "/assets/venues/west-bengal/mid/gallery-8.jpg",
+          "/assets/venues/west-bengal/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "west-bengal-budget-001",
+        "name": "Community Center Kolkata",
+        "city": "Kolkata",
+        "state": "west-bengal",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Community", "Affordable"],
+        "description": "Basic community hall with simple amenities for smaller intimate celebrations.",
+        "features": [
+          "Simple setup",
+          "Affordable rates",
+          "Community managed",
+          "Kitchen access",
+          "Parking",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/west-bengal/budget/community-center-kolkata/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/budget/gallery-1.jpg",
+          "/assets/venues/west-bengal/budget/gallery-2.jpg",
+          "/assets/venues/west-bengal/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "west-bengal-budget-002",
+        "name": "Park Ground Venue",
+        "city": "Siliguri",
+        "state": "west-bengal",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,80,000 - ₹5,20,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Park", "Spacious"],
+        "description": "Large open ground in public park suitable for tent arrangements and outdoor celebrations.",
+        "features": [
+          "Open space",
+          "Park setting",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Green surroundings",
+          "Parking"
+        ],
+        "coverImage": "/assets/venues/west-bengal/budget/park-ground-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/budget/gallery-4.jpg",
+          "/assets/venues/west-bengal/budget/gallery-5.jpg",
+          "/assets/venues/west-bengal/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "west-bengal-budget-003",
+        "name": "Village Community Space",
+        "city": "Darjeeling",
+        "state": "west-bengal",
+        "type": "Community Space",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.9,
+        "styles": ["Village", "Traditional", "Rustic"],
+        "description": "Traditional village gathering space with rustic charm and authentic Bengal atmosphere.",
+        "features": [
+          "Village setting",
+          "Traditional ambiance",
+          "Simple facilities",
+          "Affordable",
+          "Community support",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/west-bengal/budget/village-community-space/cover.jpg",
+        "gallery": [
+          "/assets/venues/west-bengal/budget/gallery-7.jpg",
+          "/assets/venues/west-bengal/budget/gallery-8.jpg",
+          "/assets/venues/west-bengal/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  },
+  "telangana": {
+    "premium": [
+      {
+        "id": "telangana-premium-001",
+        "name": "Telangana Royal Palace",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Palace Venue",
+        "budget": "premium",
+        "capacity": "800-1300",
+        "priceRange": "₹25,00,000 - ₹40,00,000",
+        "rating": 4.9,
+        "styles": ["Royal", "Historic", "Grand"],
+        "description": "Magnificent palace with Nizami heritage, impressive courtyards, and luxurious amenities for grand celebrations.",
+        "features": [
+          "Nizami heritage",
+          "Multiple courtyards",
+          "Royal architecture",
+          "Luxury facilities",
+          "Heritage decor",
+          "VIP suites"
+        ],
+        "coverImage": "/assets/venues/telangana/premium/telangana-royal-palace/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/premium/gallery-1.jpg",
+          "/assets/venues/telangana/premium/gallery-2.jpg",
+          "/assets/venues/telangana/premium/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "telangana-premium-002",
+        "name": "Lake View Luxury Resort",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Luxury Resort",
+        "budget": "premium",
+        "capacity": "700-1100",
+        "priceRange": "₹22,00,000 - ₹36,00,000",
+        "rating": 4.8,
+        "styles": ["Luxury", "Lakeside", "Modern"],
+        "description": "Ultra-luxury lakeside resort with contemporary architecture, infinity pools, and panoramic water views.",
+        "features": [
+          "Lake views",
+          "Modern design",
+          "Luxury amenities",
+          "Fine dining",
+          "Spa facilities",
+          "Water sports"
+        ],
+        "coverImage": "/assets/venues/telangana/premium/lake-view-luxury-resort/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/premium/gallery-4.jpg",
+          "/assets/venues/telangana/premium/gallery-5.jpg",
+          "/assets/venues/telangana/premium/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "telangana-premium-003",
+        "name": "Historic Char Minar Estate",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Heritage Estate",
+        "budget": "premium",
+        "capacity": "600-1000",
+        "priceRange": "₹20,00,000 - ₹35,00,000",
+        "rating": 4.8,
+        "styles": ["Heritage", "Historic", "Cultural"],
+        "description": "Historic estate near Char Minar with Hyderabadi architecture, cultural significance, and traditional grandeur.",
+        "features": [
+          "Historic building",
+          "Char Minar proximity",
+          "Heritage design",
+          "Cultural ambiance",
+          "Multiple halls",
+          "Traditional cuisine"
+        ],
+        "coverImage": "/assets/venues/telangana/premium/historic-char-minar-estate/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/premium/gallery-7.jpg",
+          "/assets/venues/telangana/premium/gallery-8.jpg",
+          "/assets/venues/telangana/premium/gallery-9.jpg"
+        ]
+      }
+    ],
+    "mid": [
+      {
+        "id": "telangana-mid-001",
+        "name": "Hyderabad Modern Banquet",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Banquet Hall",
+        "budget": "mid",
+        "capacity": "350-650",
+        "priceRange": "₹8,50,000 - ₹15,00,000",
+        "rating": 4.4,
+        "styles": ["Modern", "Contemporary", "Professional"],
+        "description": "Modern banquet hall with contemporary design, multiple rooms, and comprehensive facilities.",
+        "features": [
+          "Modern design",
+          "Multiple halls",
+          "Contemporary decor",
+          "Professional kitchen",
+          "Parking",
+          "Technical support"
+        ],
+        "coverImage": "/assets/venues/telangana/mid/hyderabad-modern-banquet/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/mid/gallery-1.jpg",
+          "/assets/venues/telangana/mid/gallery-2.jpg",
+          "/assets/venues/telangana/mid/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "telangana-mid-002",
+        "name": "Secunderabad Garden Venue",
+        "city": "Secunderabad",
+        "state": "telangana",
+        "type": "Garden Venue",
+        "budget": "mid",
+        "capacity": "300-550",
+        "priceRange": "₹7,50,000 - ₹13,50,000",
+        "rating": 4.3,
+        "styles": ["Garden", "Romantic", "Outdoor"],
+        "description": "Beautiful garden venue with landscaped grounds, water features, and peaceful atmosphere.",
+        "features": [
+          "Landscaped gardens",
+          "Water features",
+          "Outdoor pavilion",
+          "Catering options",
+          "Parking",
+          "Photography areas"
+        ],
+        "coverImage": "/assets/venues/telangana/mid/secunderabad-garden-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/mid/gallery-4.jpg",
+          "/assets/venues/telangana/mid/gallery-5.jpg",
+          "/assets/venues/telangana/mid/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "telangana-mid-003",
+        "name": "Telangana Heritage Hall",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Heritage Hall",
+        "budget": "mid",
+        "capacity": "280-520",
+        "priceRange": "₹7,00,000 - ₹12,80,000",
+        "rating": 4.2,
+        "styles": ["Heritage", "Traditional", "Cultural"],
+        "description": "Heritage hall with Telangana-style architecture, traditional design, and cultural ambiance.",
+        "features": [
+          "Heritage architecture",
+          "Traditional design",
+          "Cultural setting",
+          "Multiple spaces",
+          "Catering kitchen",
+          "Authentic decor"
+        ],
+        "coverImage": "/assets/venues/telangana/mid/telangana-heritage-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/mid/gallery-7.jpg",
+          "/assets/venues/telangana/mid/gallery-8.jpg",
+          "/assets/venues/telangana/mid/gallery-9.jpg"
+        ]
+      }
+    ],
+    "budget": [
+      {
+        "id": "telangana-budget-001",
+        "name": "Community Center Hall",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Community Hall",
+        "budget": "budget",
+        "capacity": "150-350",
+        "priceRange": "₹2,50,000 - ₹5,00,000",
+        "rating": 4.0,
+        "styles": ["Simple", "Functional", "Accessible"],
+        "description": "Basic community hall with simple amenities, good for smaller intimate celebrations.",
+        "features": [
+          "Simple setup",
+          "Affordable rates",
+          "Basic facilities",
+          "Kitchen access",
+          "Parking",
+          "Flexible timing"
+        ],
+        "coverImage": "/assets/venues/telangana/budget/community-center-hall/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/budget/gallery-1.jpg",
+          "/assets/venues/telangana/budget/gallery-2.jpg",
+          "/assets/venues/telangana/budget/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "telangana-budget-002",
+        "name": "Open Ground Venue",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Open Ground",
+        "budget": "budget",
+        "capacity": "200-400",
+        "priceRange": "₹2,80,000 - ₹5,20,000",
+        "rating": 4.1,
+        "styles": ["Outdoor", "Spacious", "Flexible"],
+        "description": "Large open ground suitable for tent setup and outdoor celebrations with basic infrastructure.",
+        "features": [
+          "Open space",
+          "Tent-friendly",
+          "Budget-friendly",
+          "Basic setup",
+          "Parking",
+          "Flexible arrangements"
+        ],
+        "coverImage": "/assets/venues/telangana/budget/open-ground-venue/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/budget/gallery-4.jpg",
+          "/assets/venues/telangana/budget/gallery-5.jpg",
+          "/assets/venues/telangana/budget/gallery-6.jpg"
+        ]
+      },
+      {
+        "id": "telangana-budget-003",
+        "name": "Park Pavilion Space",
+        "city": "Hyderabad",
+        "state": "telangana",
+        "type": "Park Pavilion",
+        "budget": "budget",
+        "capacity": "120-300",
+        "priceRange": "₹1,80,000 - ₹3,80,000",
+        "rating": 3.9,
+        "styles": ["Park", "Natural", "Simple"],
+        "description": "Public park pavilion with natural setting and simple facilities for informal celebrations.",
+        "features": [
+          "Park setting",
+          "Natural scenery",
+          "Basic facilities",
+          "Affordable",
+          "Open spaces",
+          "Simple arrangements"
+        ],
+        "coverImage": "/assets/venues/telangana/budget/park-pavilion-space/cover.jpg",
+        "gallery": [
+          "/assets/venues/telangana/budget/gallery-7.jpg",
+          "/assets/venues/telangana/budget/gallery-8.jpg",
+          "/assets/venues/telangana/budget/gallery-9.jpg"
+        ]
+      }
+    ]
+  }
+}

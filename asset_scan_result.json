@@ -1,0 +1,2589 @@
+{
+  "stats": {
+    "total_folders": 603,
+    "total_files": 367,
+    "missing_covers": 15,
+    "unsupported_formats": 0,
+    "naming_issues": 4
+  },
+  "issues": [
+    "Missing cover in: categories\\christian\\mid (has: photo-1764010521191-878abfde05c6.avif)",
+    "Missing cover in: categories\\christian\\premium (has: pexels-doouglasma-17380923.webp)",
+    "Missing cover in: services\\choreographers\\budget\\budget-dance-studio\\cover.jpg (has: wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp)",
+    "Missing cover in: services\\choreographers\\budget\\local-dance-artists\\cover.jpg (has: wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp)",
+    "Missing cover in: services\\choreographers\\budget\\simple-dance-services\\cover.jpg (has: wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp)",
+    "Missing cover in: services\\decorators\\budget\\simple-pretty-decor\\cover.jpg (has: 71884-Weddingday_0750.webp)",
+    "Missing cover in: services\\mehndi-artists\\budget\\affordable-mehndi-service\\cover.jpg (has: image.webp)",
+    "Missing cover in: services\\mehndi-artists\\budget\\community-henna-service\\cover.jpg (has: image.webp)",
+    "Missing cover in: services\\mehndi-artists\\budget\\simple-henna-artists\\cover.jpg (has: image.webp)",
+    "Missing cover in: services\\photographers\\budget\\budget-photography-services\\cover.jpg (has: 02.webp)",
+    "Missing cover in: services\\photographers\\budget\\local-photo-services\\cover.jpg (has: 02.webp)",
+    "Missing cover in: services\\photographers\\budget\\simple-shots-photography\\cover.jpg (has: 02.webp)",
+    "Missing cover in: services\\planners\\budget\\happy-weddings-team\\cover.jpg (has: 1725366642__DSC0633.avif)",
+    "Missing cover in: services\\planners\\budget\\local-weddings-connect\\cover.jpg (has: 1725366642__DSC0633.avif)",
+    "Missing cover in: services\\planners\\budget\\simple-celebrations\\cover.jpg (has: 1725366642__DSC0633.avif)"
+  ],
+  "folders": {
+    "categories\\beach\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\beach\\budget\\cover.avif"
+      }
+    ],
+    "categories\\beach\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\beach\\mid\\cover.webp"
+      }
+    ],
+    "categories\\beach\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\beach\\premium\\cover.webp"
+      }
+    ],
+    "categories\\boho\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\boho\\budget\\cover.avif"
+      }
+    ],
+    "categories\\boho\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\boho\\mid\\cover.webp"
+      }
+    ],
+    "categories\\boho\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\boho\\premium\\cover.avif"
+      }
+    ],
+    "categories\\christian\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\christian\\budget\\cover.avif"
+      }
+    ],
+    "categories\\christian\\mid": [
+      {
+        "name": "photo-1764010521191-878abfde05c6.avif",
+        "ext": ".avif",
+        "path": "categories\\christian\\mid\\photo-1764010521191-878abfde05c6.avif"
+      }
+    ],
+    "categories\\christian\\premium": [
+      {
+        "name": "pexels-doouglasma-17380923.webp",
+        "ext": ".webp",
+        "path": "categories\\christian\\premium\\pexels-doouglasma-17380923.webp"
+      }
+    ],
+    "categories\\destination\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\destination\\budget\\cover.avif"
+      }
+    ],
+    "categories\\destination\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\destination\\mid\\cover.avif"
+      }
+    ],
+    "categories\\destination\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\destination\\premium\\cover.avif"
+      }
+    ],
+    "categories\\floral\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\floral\\budget\\cover.avif"
+      }
+    ],
+    "categories\\floral\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\floral\\mid\\cover.avif"
+      }
+    ],
+    "categories\\floral\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\floral\\premium\\cover.webp"
+      }
+    ],
+    "categories\\luxury\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\luxury\\budget\\cover.avif"
+      }
+    ],
+    "categories\\luxury\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\luxury\\mid\\cover.avif"
+      }
+    ],
+    "categories\\luxury\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\luxury\\premium\\cover.avif"
+      }
+    ],
+    "categories\\minimal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\minimal\\budget\\cover.webp"
+      }
+    ],
+    "categories\\minimal\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\minimal\\mid\\cover.avif"
+      }
+    ],
+    "categories\\minimal\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\minimal\\premium\\cover.avif"
+      }
+    ],
+    "categories\\muslim\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\muslim\\budget\\cover.webp"
+      }
+    ],
+    "categories\\muslim\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\muslim\\mid\\cover.avif"
+      }
+    ],
+    "categories\\muslim\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\muslim\\premium\\cover.webp"
+      }
+    ],
+    "categories\\north-indian\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\north-indian\\budget\\cover.webp"
+      }
+    ],
+    "categories\\north-indian\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\north-indian\\mid\\cover.webp"
+      }
+    ],
+    "categories\\north-indian\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\north-indian\\premium\\cover.avif"
+      }
+    ],
+    "categories\\royal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\royal\\budget\\cover.webp"
+      }
+    ],
+    "categories\\royal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\royal\\mid\\cover.webp"
+      }
+    ],
+    "categories\\royal\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\royal\\premium\\cover.avif"
+      }
+    ],
+    "categories\\south-indian\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\south-indian\\budget\\cover.webp"
+      }
+    ],
+    "categories\\south-indian\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\south-indian\\mid\\cover.webp"
+      }
+    ],
+    "categories\\south-indian\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\south-indian\\premium\\cover.webp"
+      }
+    ],
+    "categories\\traditional\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\traditional\\budget\\cover.webp"
+      }
+    ],
+    "categories\\traditional\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "categories\\traditional\\mid\\cover.webp"
+      }
+    ],
+    "categories\\traditional\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "categories\\traditional\\premium\\cover.avif"
+      }
+    ],
+    "decor\\church\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\church\\budget\\cover.webp"
+      }
+    ],
+    "decor\\church\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\church\\mid\\cover.webp"
+      }
+    ],
+    "decor\\church\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\church\\premium\\cover.webp"
+      }
+    ],
+    "decor\\engagement\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\engagement\\budget\\cover.webp"
+      }
+    ],
+    "decor\\engagement\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\engagement\\mid\\cover.webp"
+      }
+    ],
+    "decor\\engagement\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "decor\\engagement\\premium\\cover.avif"
+      }
+    ],
+    "decor\\haldi\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\haldi\\budget\\cover.webp"
+      }
+    ],
+    "decor\\haldi\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\haldi\\mid\\cover.webp"
+      }
+    ],
+    "decor\\haldi\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\haldi\\premium\\cover.webp"
+      }
+    ],
+    "decor\\mehndi\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\mehndi\\budget\\cover.webp"
+      }
+    ],
+    "decor\\mehndi\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\mehndi\\mid\\cover.webp"
+      }
+    ],
+    "decor\\nikah\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\nikah\\budget\\cover.webp"
+      }
+    ],
+    "decor\\nikah\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\nikah\\mid\\cover.webp"
+      }
+    ],
+    "decor\\nikah\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\nikah\\premium\\cover.webp"
+      }
+    ],
+    "decor\\reception\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\reception\\budget\\cover.webp"
+      }
+    ],
+    "decor\\reception\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\reception\\mid\\cover.webp"
+      }
+    ],
+    "decor\\reception\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\reception\\premium\\cover.webp"
+      }
+    ],
+    "decor\\sangeet\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\sangeet\\budget\\cover.webp"
+      }
+    ],
+    "decor\\sangeet\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\sangeet\\mid\\cover.webp"
+      }
+    ],
+    "decor\\sangeet\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\sangeet\\premium\\cover.webp"
+      }
+    ],
+    "decor\\temple\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\temple\\budget\\cover.webp"
+      }
+    ],
+    "decor\\temple\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\temple\\mid\\cover.webp"
+      }
+    ],
+    "decor\\temple\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\temple\\premium\\cover.webp"
+      }
+    ],
+    "decor\\wedding\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\wedding\\budget\\cover.webp"
+      }
+    ],
+    "decor\\wedding\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\wedding\\mid\\cover.webp"
+      }
+    ],
+    "decor\\wedding\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "decor\\wedding\\premium\\cover.webp"
+      }
+    ],
+    "entertainment\\celebrity": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\celebrity\\cover.webp"
+      }
+    ],
+    "entertainment\\dance": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\dance\\cover.webp"
+      }
+    ],
+    "entertainment\\dj": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\dj\\cover.webp"
+      }
+    ],
+    "entertainment\\entry\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\entry\\budget\\cover.webp"
+      }
+    ],
+    "entertainment\\entry\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\entry\\mid\\cover.webp"
+      }
+    ],
+    "entertainment\\entry\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\entry\\premium\\cover.webp"
+      }
+    ],
+    "entertainment\\fireworks\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\fireworks\\budget\\cover.webp"
+      }
+    ],
+    "entertainment\\fireworks\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\fireworks\\mid\\cover.webp"
+      }
+    ],
+    "entertainment\\fireworks\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\fireworks\\premium\\cover.webp"
+      }
+    ],
+    "entertainment\\live-band\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\live-band\\budget\\cover.webp"
+      }
+    ],
+    "entertainment\\live-band\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\live-band\\mid\\cover.webp"
+      }
+    ],
+    "entertainment\\live-band\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "entertainment\\live-band\\premium\\cover.webp"
+      }
+    ],
+    "fallback": [
+      {
+        "name": "cover.jpg1.webp",
+        "ext": ".webp",
+        "path": "fallback\\cover.jpg1.webp"
+      },
+      {
+        "name": "cover.jpg2.webp",
+        "ext": ".webp",
+        "path": "fallback\\cover.jpg2.webp"
+      },
+      {
+        "name": "cover.jpg3.webp",
+        "ext": ".webp",
+        "path": "fallback\\cover.jpg3.webp"
+      },
+      {
+        "name": "cover.jpg4.webp",
+        "ext": ".webp",
+        "path": "fallback\\cover.jpg4.webp"
+      },
+      {
+        "name": "cover.jpg5.webp",
+        "ext": ".webp",
+        "path": "fallback\\cover.jpg5.webp"
+      }
+    ],
+    "food\\beverages": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\beverages\\cover.webp"
+      }
+    ],
+    "food\\buffet": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\buffet\\cover.webp"
+      }
+    ],
+    "food\\desserts": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\desserts\\cover.webp"
+      }
+    ],
+    "food\\live-counters": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\live-counters\\cover.webp"
+      }
+    ],
+    "food\\luxury-dining": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\luxury-dining\\cover.webp"
+      }
+    ],
+    "food\\muslim": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\muslim\\cover.webp"
+      }
+    ],
+    "food\\north-indian": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\north-indian\\cover.webp"
+      }
+    ],
+    "food\\south-indian": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\south-indian\\cover.webp"
+      }
+    ],
+    "food\\street-food": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "food\\street-food\\cover.webp"
+      }
+    ],
+    "hero\\dashboard": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "hero\\dashboard\\cover.webp"
+      }
+    ],
+    "hero\\explore": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "hero\\explore\\cover.webp"
+      }
+    ],
+    "hero\\homepage": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "hero\\homepage\\cover.webp"
+      }
+    ],
+    "hero\\planner": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "hero\\planner\\cover.webp"
+      }
+    ],
+    "ideas\\bride-entry\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\bride-entry\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\bride-entry\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\bride-entry\\mid\\cover.webp"
+      }
+    ],
+    "ideas\\bride-entry\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "ideas\\bride-entry\\premium\\cover.avif"
+      }
+    ],
+    "ideas\\couple-entry\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\couple-entry\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\couple-entry\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\couple-entry\\mid\\cover.webp"
+      }
+    ],
+    "ideas\\couple-entry\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\couple-entry\\premium\\cover.webp"
+      }
+    ],
+    "ideas\\gifting\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\gifting\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\gifting\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\gifting\\mid\\cover.webp"
+      }
+    ],
+    "ideas\\gifting\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\gifting\\premium\\cover.webp"
+      }
+    ],
+    "ideas\\groom-entry\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\groom-entry\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\groom-entry\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "ideas\\groom-entry\\mid\\cover.avif"
+      }
+    ],
+    "ideas\\groom-entry\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\groom-entry\\premium\\cover.webp"
+      }
+    ],
+    "ideas\\lighting\\budget": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "ideas\\lighting\\budget\\cover.avif"
+      }
+    ],
+    "ideas\\lighting\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "ideas\\lighting\\mid\\cover.avif"
+      }
+    ],
+    "ideas\\lighting\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\lighting\\premium\\cover.webp"
+      }
+    ],
+    "ideas\\seating\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\seating\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\seating\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\seating\\mid\\cover.webp"
+      }
+    ],
+    "ideas\\seating\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\seating\\premium\\cover.webp"
+      }
+    ],
+    "ideas\\varmala\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\varmala\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\varmala\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\varmala\\mid\\cover.webp"
+      }
+    ],
+    "ideas\\varmala\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\varmala\\premium\\cover.webp"
+      }
+    ],
+    "ideas\\welcome-board\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\welcome-board\\budget\\cover.webp"
+      }
+    ],
+    "ideas\\welcome-board\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\welcome-board\\mid\\cover.webp"
+      }
+    ],
+    "ideas\\welcome-board\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "ideas\\welcome-board\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\christian\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\christian\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\christian\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\christian\\mid\\cover.webp"
+      }
+    ],
+    "invitations\\christian\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\christian\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\floral\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\floral\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\floral\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\floral\\mid\\cover.webp"
+      }
+    ],
+    "invitations\\floral\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\floral\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\minimal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\minimal\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\minimal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\minimal\\mid\\cover.webp"
+      }
+    ],
+    "invitations\\minimal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\minimal\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\modern\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\modern\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\modern\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\modern\\mid\\cover.webp"
+      }
+    ],
+    "invitations\\modern\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\modern\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\muslim\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\muslim\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\muslim\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\muslim\\mid\\cover.webp"
+      }
+    ],
+    "invitations\\muslim\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\muslim\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\royal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\royal\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\royal\\mid": [
+      {
+        "name": "cover.jpg",
+        "ext": ".jpg",
+        "path": "invitations\\royal\\mid\\cover.jpg"
+      }
+    ],
+    "invitations\\royal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\royal\\premium\\cover.webp"
+      }
+    ],
+    "invitations\\traditional\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\traditional\\budget\\cover.webp"
+      }
+    ],
+    "invitations\\traditional\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\traditional\\mid\\cover.webp"
+      }
+    ],
+    "invitations\\traditional\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "invitations\\traditional\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\bridal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\bridal\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\bridal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\bridal\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\bridal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\bridal\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\diamond\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\diamond\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\diamond\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\diamond\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\diamond\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\diamond\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\groom\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\groom\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\groom\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\groom\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\groom\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\groom\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\kundan\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\kundan\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\kundan\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\kundan\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\kundan\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\kundan\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\luxury\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\luxury\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\luxury\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\luxury\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\luxury\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\luxury\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\minimal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\minimal\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\minimal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\minimal\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\minimal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\minimal\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\polki\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\polki\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\polki\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\polki\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\polki\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\polki\\premium\\cover.webp"
+      }
+    ],
+    "jewelry\\temple\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\temple\\budget\\cover.webp"
+      }
+    ],
+    "jewelry\\temple\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\temple\\mid\\cover.webp"
+      }
+    ],
+    "jewelry\\temple\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "jewelry\\temple\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\bridal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\bridal\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\bridal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\bridal\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\bridal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\bridal\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\christian\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\christian\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\christian\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "makeup\\christian\\mid\\cover.avif"
+      }
+    ],
+    "makeup\\christian\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\christian\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\glam\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\glam\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\glam\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\glam\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\glam\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\glam\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\minimal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\minimal\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\minimal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\minimal\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\minimal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\minimal\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\muslim\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\muslim\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\muslim\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\muslim\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\muslim\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\muslim\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\natural\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\natural\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\natural\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\natural\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\natural\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\natural\\premium\\cover.webp"
+      }
+    ],
+    "makeup\\reception\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\reception\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\reception\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\reception\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\reception\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "makeup\\reception\\premium\\cover.avif"
+      }
+    ],
+    "makeup\\south-indian\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\south-indian\\budget\\cover.webp"
+      }
+    ],
+    "makeup\\south-indian\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\south-indian\\mid\\cover.webp"
+      }
+    ],
+    "makeup\\south-indian\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "makeup\\south-indian\\premium\\cover.webp"
+      }
+    ],
+    "mandap\\beach\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\beach\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\beach\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\beach\\mid\\cover.webp"
+      }
+    ],
+    "mandap\\beach\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\beach\\premium\\cover.webp"
+      }
+    ],
+    "mandap\\floral\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\floral\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\floral\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\floral\\mid\\cover.webp"
+      }
+    ],
+    "mandap\\floral\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\floral\\premium\\cover.webp"
+      }
+    ],
+    "mandap\\luxury\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\luxury\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\luxury\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\luxury\\mid\\cover.webp"
+      }
+    ],
+    "mandap\\luxury\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "mandap\\luxury\\premium\\cover.avif"
+      }
+    ],
+    "mandap\\minimal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\minimal\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\minimal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\minimal\\mid\\cover.webp"
+      }
+    ],
+    "mandap\\minimal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\minimal\\premium\\cover.webp"
+      }
+    ],
+    "mandap\\royal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\royal\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\royal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\royal\\mid\\cover.webp"
+      }
+    ],
+    "mandap\\royal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\royal\\premium\\cover.webp"
+      }
+    ],
+    "mandap\\temple\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\temple\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\temple\\mid": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "mandap\\temple\\mid\\cover.avif"
+      }
+    ],
+    "mandap\\temple\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "mandap\\temple\\premium\\cover.avif"
+      }
+    ],
+    "mandap\\traditional\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\traditional\\budget\\cover.webp"
+      }
+    ],
+    "mandap\\traditional\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\traditional\\mid\\cover.webp"
+      }
+    ],
+    "mandap\\traditional\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "mandap\\traditional\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\bridal-gown\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\bridal-gown\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\bridal-gown\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\bridal-gown\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\bridal-gown\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\bridal-gown\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\lehenga\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\lehenga\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\lehenga\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\lehenga\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\lehenga\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\lehenga\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\saree\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\saree\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\saree\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\saree\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\saree\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\saree\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\sharara\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\sharara\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\sharara\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\sharara\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\bride\\sharara\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\bride\\sharara\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\luxury\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\luxury\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\luxury\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\luxury\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\luxury\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\luxury\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\matching\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\matching\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\matching\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\matching\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\matching\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\matching\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\pastel\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\pastel\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\pastel\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\pastel\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\pastel\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "outfits\\couple\\pastel\\premium\\cover.avif"
+      }
+    ],
+    "outfits\\couple\\royal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\royal\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\royal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\royal\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\couple\\royal\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\couple\\royal\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\indo-western\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\indo-western\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\indo-western\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\indo-western\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\indo-western\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\indo-western\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\kurta\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\kurta\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\kurta\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\kurta\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\kurta\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\kurta\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\sherwani\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\sherwani\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\sherwani\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\sherwani\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\sherwani\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\sherwani\\premium\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\tuxedo\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\tuxedo\\budget\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\tuxedo\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\tuxedo\\mid\\cover.webp"
+      }
+    ],
+    "outfits\\groom\\tuxedo\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "outfits\\groom\\tuxedo\\premium\\cover.webp"
+      }
+    ],
+    "photography\\candid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\candid\\cover.webp"
+      }
+    ],
+    "photography\\cinematic": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\cinematic\\cover.webp"
+      }
+    ],
+    "photography\\couple": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\couple\\cover.webp"
+      }
+    ],
+    "photography\\drone": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\drone\\cover.webp"
+      }
+    ],
+    "photography\\emotional": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\emotional\\cover.webp"
+      }
+    ],
+    "photography\\night-shoot": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\night-shoot\\cover.webp"
+      }
+    ],
+    "photography\\prewedding": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "photography\\prewedding\\cover.webp"
+      }
+    ],
+    "photography\\traditional": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "photography\\traditional\\cover.avif"
+      }
+    ],
+    "services\\bands\\budget\\budget-music-band": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\budget\\budget-music-band\\cover.webp"
+      }
+    ],
+    "services\\bands\\budget\\local-musicians-group": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\budget\\local-musicians-group\\cover.webp"
+      }
+    ],
+    "services\\bands\\budget\\simple-music-group": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\budget\\simple-music-group\\cover.webp"
+      }
+    ],
+    "services\\bands\\mid\\community-music-band": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\mid\\community-music-band\\cover.webp"
+      }
+    ],
+    "services\\bands\\mid\\festive-music-ensemble": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\mid\\festive-music-ensemble\\cover.webp"
+      }
+    ],
+    "services\\bands\\mid\\professional-music-band": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\mid\\professional-music-band\\cover.webp"
+      }
+    ],
+    "services\\bands\\premium\\classical-music-ensemble": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\premium\\classical-music-ensemble\\cover.webp"
+      }
+    ],
+    "services\\bands\\premium\\elite-orchestra": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\premium\\elite-orchestra\\cover.webp"
+      }
+    ],
+    "services\\bands\\premium\\royal-brass-band": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\bands\\premium\\royal-brass-band\\cover.webp"
+      }
+    ],
+    "services\\caterers\\budget\\budget-feast-catering\\cover.jpg": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\budget\\budget-feast-catering\\cover.jpg\\cover.webp"
+      }
+    ],
+    "services\\caterers\\budget\\community-caterers\\cover.jpg": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\budget\\community-caterers\\cover.jpg\\cover.webp"
+      }
+    ],
+    "services\\caterers\\budget\\simple-catering-service\\cover.jpg": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\budget\\simple-catering-service\\cover.jpg\\cover.webp"
+      }
+    ],
+    "services\\caterers\\mid\\flavors-of-celebration": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\mid\\flavors-of-celebration\\cover.webp"
+      }
+    ],
+    "services\\caterers\\mid\\homestyle-wedding-catering": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\mid\\homestyle-wedding-catering\\cover.webp"
+      }
+    ],
+    "services\\caterers\\mid\\quality-feast-caterers": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\mid\\quality-feast-caterers\\cover.webp"
+      }
+    ],
+    "services\\caterers\\premium\\epicurean-delights": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\premium\\epicurean-delights\\cover.webp"
+      }
+    ],
+    "services\\caterers\\premium\\grand-feast-catering": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\premium\\grand-feast-catering\\cover.webp"
+      }
+    ],
+    "services\\caterers\\premium\\royal-culinary-experiences": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\caterers\\premium\\royal-culinary-experiences\\cover.webp"
+      }
+    ],
+    "services\\choreographers\\budget\\budget-dance-studio\\cover.jpg": [
+      {
+        "name": "wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\budget\\budget-dance-studio\\cover.jpg\\wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp"
+      }
+    ],
+    "services\\choreographers\\budget\\local-dance-artists\\cover.jpg": [
+      {
+        "name": "wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\budget\\local-dance-artists\\cover.jpg\\wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp"
+      }
+    ],
+    "services\\choreographers\\budget\\simple-dance-services\\cover.jpg": [
+      {
+        "name": "wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\budget\\simple-dance-services\\cover.jpg\\wedding-choreography-wedding-dance-choreography-by-s-k-r-entertainment-dance-performance-3_15_273971-15924915151.webp"
+      }
+    ],
+    "services\\choreographers\\mid\\creative-movement-academy": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\mid\\creative-movement-academy\\cover.webp"
+      }
+    ],
+    "services\\choreographers\\mid\\dance-celebration-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\mid\\dance-celebration-studio\\cover.webp"
+      }
+    ],
+    "services\\choreographers\\mid\\wedding-dance-experts": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\mid\\wedding-dance-experts\\cover.webp"
+      }
+    ],
+    "services\\choreographers\\premium\\elite-movement-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\premium\\elite-movement-studio\\cover.webp"
+      }
+    ],
+    "services\\choreographers\\premium\\precision-dance-productions": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\premium\\precision-dance-productions\\cover.webp"
+      }
+    ],
+    "services\\choreographers\\premium\\royal-dance-academy": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\choreographers\\premium\\royal-dance-academy\\cover.webp"
+      }
+    ],
+    "services\\decorators\\budget\\budget-friendly-designs": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "services\\decorators\\budget\\budget-friendly-designs\\cover.avif"
+      }
+    ],
+    "services\\decorators\\budget\\community-decorators": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\budget\\community-decorators\\cover.webp"
+      }
+    ],
+    "services\\decorators\\budget\\simple-pretty-decor\\cover.jpg": [
+      {
+        "name": "71884-Weddingday_0750.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\budget\\simple-pretty-decor\\cover.jpg\\71884-Weddingday_0750.webp"
+      }
+    ],
+    "services\\decorators\\mid\\beautiful-moments-decor": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\mid\\beautiful-moments-decor\\cover.webp"
+      }
+    ],
+    "services\\decorators\\mid\\colorful-celebrations": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\mid\\colorful-celebrations\\cover.webp"
+      }
+    ],
+    "services\\decorators\\mid\\creative-space-decorations": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\mid\\creative-space-decorations\\cover.webp"
+      }
+    ],
+    "services\\decorators\\premium\\divine-aesthetics-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\premium\\divine-aesthetics-studio\\cover.webp"
+      }
+    ],
+    "services\\decorators\\premium\\eternal-elegance-designs": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\premium\\eternal-elegance-designs\\cover.webp"
+      }
+    ],
+    "services\\decorators\\premium\\royal-decor-artistry": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\decorators\\premium\\royal-decor-artistry\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\budget\\affordable-beauty-makeup\\cover.jpg": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\budget\\affordable-beauty-makeup\\cover.jpg\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\budget\\local-makeup-artists\\cover.jpg": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\budget\\local-makeup-artists\\cover.jpg\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\budget\\simple-makeup-services\\cover.jpg": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\budget\\simple-makeup-services\\cover.jpg\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\mid\\beautiful-you-makeup": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\mid\\beautiful-you-makeup\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\mid\\makeup-magic-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\mid\\makeup-magic-studio\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\mid\\professional-makeup-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\mid\\professional-makeup-studio\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\premium\\bridal-artistry-experts": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\premium\\bridal-artistry-experts\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\premium\\elite-beauty-artistry": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\premium\\elite-beauty-artistry\\cover.webp"
+      }
+    ],
+    "services\\makeup-artists\\premium\\radiant-beauty-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\makeup-artists\\premium\\radiant-beauty-studio\\cover.webp"
+      }
+    ],
+    "services\\mehndi-artists\\budget\\affordable-mehndi-service\\cover.jpg": [
+      {
+        "name": "image.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\budget\\affordable-mehndi-service\\cover.jpg\\image.webp"
+      }
+    ],
+    "services\\mehndi-artists\\budget\\community-henna-service\\cover.jpg": [
+      {
+        "name": "image.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\budget\\community-henna-service\\cover.jpg\\image.webp"
+      }
+    ],
+    "services\\mehndi-artists\\budget\\simple-henna-artists\\cover.jpg": [
+      {
+        "name": "image.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\budget\\simple-henna-artists\\cover.jpg\\image.webp"
+      }
+    ],
+    "services\\mehndi-artists\\mid\\beautiful-henna-designs": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\mid\\beautiful-henna-designs\\cover.webp"
+      }
+    ],
+    "services\\mehndi-artists\\mid\\creative-mehndi-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\mid\\creative-mehndi-studio\\cover.webp"
+      }
+    ],
+    "services\\mehndi-artists\\mid\\skillful-henna-application": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\mid\\skillful-henna-application\\cover.webp"
+      }
+    ],
+    "services\\mehndi-artists\\premium\\intricate-design-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\premium\\intricate-design-studio\\cover.webp"
+      }
+    ],
+    "services\\mehndi-artists\\premium\\royal-henna-art-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\premium\\royal-henna-art-studio\\cover.webp"
+      }
+    ],
+    "services\\mehndi-artists\\premium\\traditional-henna-artists": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\mehndi-artists\\premium\\traditional-henna-artists\\cover.webp"
+      }
+    ],
+    "services\\photographers\\budget\\budget-photography-services\\cover.jpg": [
+      {
+        "name": "02.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\budget\\budget-photography-services\\cover.jpg\\02.webp"
+      }
+    ],
+    "services\\photographers\\budget\\local-photo-services\\cover.jpg": [
+      {
+        "name": "02.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\budget\\local-photo-services\\cover.jpg\\02.webp"
+      }
+    ],
+    "services\\photographers\\budget\\simple-shots-photography\\cover.jpg": [
+      {
+        "name": "02.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\budget\\simple-shots-photography\\cover.jpg\\02.webp"
+      }
+    ],
+    "services\\photographers\\mid\\candid-moments-capture": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\mid\\candid-moments-capture\\cover.webp"
+      }
+    ],
+    "services\\photographers\\mid\\smile-capture-photography": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\mid\\smile-capture-photography\\cover.webp"
+      }
+    ],
+    "services\\photographers\\mid\\wedding-story-photographers": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\mid\\wedding-story-photographers\\cover.webp"
+      }
+    ],
+    "services\\photographers\\premium\\eternal-frames-studio": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\premium\\eternal-frames-studio\\cover.webp"
+      }
+    ],
+    "services\\photographers\\premium\\frames-of-eternity": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\premium\\frames-of-eternity\\cover.webp"
+      }
+    ],
+    "services\\photographers\\premium\\moments-immortalized": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\photographers\\premium\\moments-immortalized\\cover.webp"
+      }
+    ],
+    "services\\planners\\budget\\happy-weddings-team\\cover.jpg": [
+      {
+        "name": "1725366642__DSC0633.avif",
+        "ext": ".avif",
+        "path": "services\\planners\\budget\\happy-weddings-team\\cover.jpg\\1725366642__DSC0633.avif"
+      }
+    ],
+    "services\\planners\\budget\\local-weddings-connect\\cover.jpg": [
+      {
+        "name": "1725366642__DSC0633.avif",
+        "ext": ".avif",
+        "path": "services\\planners\\budget\\local-weddings-connect\\cover.jpg\\1725366642__DSC0633.avif"
+      }
+    ],
+    "services\\planners\\budget\\simple-celebrations\\cover.jpg": [
+      {
+        "name": "1725366642__DSC0633.avif",
+        "ext": ".avif",
+        "path": "services\\planners\\budget\\simple-celebrations\\cover.jpg\\1725366642__DSC0633.avif"
+      }
+    ],
+    "services\\planners\\mid\\dream-day-organizers": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\planners\\mid\\dream-day-organizers\\cover.webp"
+      }
+    ],
+    "services\\planners\\mid\\elegance-wedding-planners": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\planners\\mid\\elegance-wedding-planners\\cover.webp"
+      }
+    ],
+    "services\\planners\\mid\\perfect-occasions": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\planners\\mid\\perfect-occasions\\cover.webp"
+      }
+    ],
+    "services\\planners\\premium\\elite-wedding-concepts": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\planners\\premium\\elite-wedding-concepts\\cover.webp"
+      }
+    ],
+    "services\\planners\\premium\\luxury-moments-weddings": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\planners\\premium\\luxury-moments-weddings\\cover.webp"
+      }
+    ],
+    "services\\planners\\premium\\royal-affairs-management": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "services\\planners\\premium\\royal-affairs-management\\cover.webp"
+      }
+    ],
+    "stage\\church\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\church\\budget\\cover.webp"
+      }
+    ],
+    "stage\\church\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\church\\mid\\cover.webp"
+      }
+    ],
+    "stage\\church\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\church\\premium\\cover.webp"
+      }
+    ],
+    "stage\\engagement\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\engagement\\budget\\cover.webp"
+      }
+    ],
+    "stage\\engagement\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\engagement\\mid\\cover.webp"
+      }
+    ],
+    "stage\\engagement\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "stage\\engagement\\premium\\cover.avif"
+      }
+    ],
+    "stage\\nikah\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\nikah\\budget\\cover.webp"
+      }
+    ],
+    "stage\\nikah\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\nikah\\mid\\cover.webp"
+      }
+    ],
+    "stage\\nikah\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\nikah\\premium\\cover.webp"
+      }
+    ],
+    "stage\\reception\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\reception\\budget\\cover.webp"
+      }
+    ],
+    "stage\\reception\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\reception\\mid\\cover.webp"
+      }
+    ],
+    "stage\\reception\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\reception\\premium\\cover.webp"
+      }
+    ],
+    "stage\\royal\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\royal\\budget\\cover.webp"
+      }
+    ],
+    "stage\\royal\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\royal\\mid\\cover.webp"
+      }
+    ],
+    "stage\\royal\\premium": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "stage\\royal\\premium\\cover.avif"
+      }
+    ],
+    "stage\\sangeet\\budget": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\sangeet\\budget\\cover.webp"
+      }
+    ],
+    "stage\\sangeet\\mid": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\sangeet\\mid\\cover.webp"
+      }
+    ],
+    "stage\\sangeet\\premium": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "stage\\sangeet\\premium\\cover.webp"
+      }
+    ],
+    "venues\\delhi\\budget\\community-hall-central": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\delhi\\budget\\community-hall-central\\cover.avif"
+      }
+    ],
+    "venues\\delhi\\mid\\modern-city-banquet": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\delhi\\mid\\modern-city-banquet\\cover.avif"
+      }
+    ],
+    "venues\\goa\\budget\\local-community-pavilion": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\goa\\budget\\local-community-pavilion\\cover.webp"
+      }
+    ],
+    "venues\\goa\\mid\\mango-orchard-banquet": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\goa\\mid\\mango-orchard-banquet\\cover.avif"
+      }
+    ],
+    "venues\\goa\\mid\\riverside-garden-venue": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\goa\\mid\\riverside-garden-venue\\cover.webp"
+      }
+    ],
+    "venues\\goa\\premium\\taj-holiday-village": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\goa\\premium\\taj-holiday-village\\cover.webp"
+      }
+    ],
+    "venues\\hyderabad\\budget\\community-center-hall": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\hyderabad\\budget\\community-center-hall\\cover.webp"
+      }
+    ],
+    "venues\\hyderabad\\mid\\garden-valley-venue": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\hyderabad\\mid\\garden-valley-venue\\cover.avif"
+      }
+    ],
+    "venues\\hyderabad\\premium\\hyderabad-grand-palace": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\hyderabad\\premium\\hyderabad-grand-palace\\cover.avif"
+      }
+    ],
+    "venues\\karnataka\\budget\\school-grounds-venue": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\karnataka\\budget\\school-grounds-venue\\cover.avif"
+      }
+    ],
+    "venues\\karnataka\\mid\\garden-city-resort": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\karnataka\\mid\\garden-city-resort\\cover.webp"
+      }
+    ],
+    "venues\\karnataka\\mid\\plantation-bungalow-venue": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\karnataka\\mid\\plantation-bungalow-venue\\cover.webp"
+      }
+    ],
+    "venues\\karnataka\\mid\\waterfall-banquet-hall": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\karnataka\\mid\\waterfall-banquet-hall\\cover.webp"
+      }
+    ],
+    "venues\\kerala\\mid\\coconut-grove-venue": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\kerala\\mid\\coconut-grove-venue\\cover.avif"
+      }
+    ],
+    "venues\\kerala\\mid\\lagoon-view-garden-resort": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\kerala\\mid\\lagoon-view-garden-resort\\cover.avif"
+      }
+    ],
+    "venues\\kerala\\premium\\spice-garden-palace": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\kerala\\premium\\spice-garden-palace\\cover.webp"
+      }
+    ],
+    "venues\\maharashtra\\budget\\local-community-hall": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\maharashtra\\budget\\local-community-hall\\cover.avif"
+      }
+    ],
+    "venues\\maharashtra\\budget\\open-maidan-ground": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\maharashtra\\budget\\open-maidan-ground\\cover.avif"
+      }
+    ],
+    "venues\\punjab\\budget\\agricultural-field-ground": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\punjab\\budget\\agricultural-field-ground\\cover.avif"
+      }
+    ],
+    "venues\\punjab\\budget\\community-hall-junction": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\punjab\\budget\\community-hall-junction\\cover.avif"
+      }
+    ],
+    "venues\\punjab\\budget\\village-baithak-space": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\punjab\\budget\\village-baithak-space\\cover.avif"
+      }
+    ],
+    "venues\\punjab\\premium\\jailandhar-garden-estate": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\punjab\\premium\\jailandhar-garden-estate\\cover.avif"
+      }
+    ],
+    "venues\\rajasthan\\budget\\sakura-garden-hall": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\rajasthan\\budget\\sakura-garden-hall\\cover.avif"
+      }
+    ],
+    "venues\\rajasthan\\mid\\amber-palace-banquet": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\rajasthan\\mid\\amber-palace-banquet\\cover.avif"
+      }
+    ],
+    "venues\\tamil-nadu\\budget\\local-hall-community-space": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\tamil-nadu\\budget\\local-hall-community-space\\cover.avif"
+      }
+    ],
+    "venues\\tamil-nadu\\budget\\rice-field-open-ground": [
+      {
+        "name": "cover.webp",
+        "ext": ".webp",
+        "path": "venues\\tamil-nadu\\budget\\rice-field-open-ground\\cover.webp"
+      }
+    ],
+    "venues\\tamil-nadu\\premium\\ooty-hill-palace-resort": [
+      {
+        "name": "cover.avif",
+        "ext": ".avif",
+        "path": "venues\\tamil-nadu\\premium\\ooty-hill-palace-resort\\cover.avif"
+      }
+    ]
+  }
+}
