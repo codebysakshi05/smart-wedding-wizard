@@ -24,8 +24,18 @@ function ext(path: string, format?: string): string {
 }
 
 // ─── DECOR IMAGES ─────────────────────────────────────────────────────────────
-// Available: haldi, mehndi, nikah, reception, sangeet, temple, wedding
+// Available: haldi, mehndi, nikah, reception, sangeet, temple, wedding, church, engagement
 export const DECOR_MAP: Record<string, Record<BudgetTier, string>> = {
+  church: {
+    budget: ext("/assets/decor/church/budget"),
+    mid: ext("/assets/decor/church/mid"),
+    premium: ext("/assets/decor/church/premium"),
+  },
+  engagement: {
+    budget: ext("/assets/decor/engagement/budget"),
+    mid: ext("/assets/decor/engagement/mid"),
+    premium: ext("/assets/decor/engagement/premium"),
+  },
   haldi: {
     budget: ext("/assets/decor/haldi/budget"),
     mid: ext("/assets/decor/haldi/mid"),
@@ -305,8 +315,8 @@ export const RELIGION_EVENT_MAP: Record<Religion, Record<string, EventImageProfi
     Walima: { decorKey: "reception", mandapKey: "royal", stageKey: "reception" },
   },
   christian: {
-    Engagement: { decorKey: "wedding", mandapKey: "minimal", stageKey: "engagement" },
-    "Church Wedding": { decorKey: "temple", mandapKey: "minimal", stageKey: "church" },
+    Engagement: { decorKey: "engagement", mandapKey: "minimal", stageKey: "engagement" },
+    "Church Wedding": { decorKey: "church", mandapKey: "minimal", stageKey: "church" },
     Reception: { decorKey: "reception", mandapKey: "floral", stageKey: "reception" },
   },
   sikh: {
