@@ -58,18 +58,18 @@ app.use("/api/", apiLimiter);
 /* ─── Middleware ─────────────────────────────────────────────── */
 
 // CORS – allow requests from the configured frontend origin or localhost in dev
-const allowedOrigins =
-  process.env.NODE_ENV === "production"
-    ? process.env.CORS_ORIGIN
-      ? process.env.CORS_ORIGIN.split(",")
-      : []
-    : ["http://localhost:5173", "http://127.0.0.1:5173", "*"];
+// In production, use CORS_ORIGIN env var (comma-separated). Falls back to "*" if not set.
+const corsOriginEnv = process.env.CORS_ORIGIN;
+const allowedOrigins = corsOriginEnv
+  ? corsOriginEnv.split(",").map((o) => o.trim())
+  : ["*"];
 
 app.use(
   cors({
     origin: allowedOrigins.includes("*") ? "*" : allowedOrigins,
-    methods: ["GET", "POST", "OPTIONS"],
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
+    credentials: true,
   }),
 );
 

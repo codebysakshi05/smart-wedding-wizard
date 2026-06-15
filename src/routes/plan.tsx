@@ -446,20 +446,24 @@ function PlanPage() {
                     { label: "Budget", value: 300000, hint: "Up to ₹3L" },
                     { label: "Mid", value: 800000, hint: "₹5L – ₹15L" },
                     { label: "Premium", value: 2500000, hint: "₹15L+" },
-                  ].map((t) => (
+                  ].map((t) => {
+                    const isActive = Math.abs(budget - t.value) < 100000;
+                    return (
                     <button
                       key={t.label}
                       onClick={() => setBudget(t.value)}
-                      className={`rounded-2xl border p-4 text-center transition-all duration-300 ${
-                        Math.abs(budget - t.value) < 100000
-                          ? "border-primary bg-primary text-black font-bold shadow-glow"
-                          : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
+                      className={`rounded-2xl border p-4 text-center transition-all duration-300 font-bold ${
+                        isActive
+                          ? "border-amber-400 shadow-[0_0_20px_rgba(201,153,74,0.5)] -translate-y-1"
+                          : "border-white/15 bg-white/8 hover:border-amber-400/40 hover:-translate-y-0.5 text-white"
                       }`}
+                      style={isActive ? { background: "linear-gradient(135deg,#f5d98a 0%,#c9994a 55%,#a0722a 100%)", color: "#000" } : {}}
                     >
                       <p className="font-display text-lg">{t.label}</p>
-                      <p className="text-xs text-black/60 mt-1">{t.hint}</p>
+                      <p className={`text-xs mt-1 ${isActive ? "text-black/70" : "text-white/40"}`}>{t.hint}</p>
                     </button>
-                  ))}
+                    );
+                  })}
                 </div>
               </div>
             </div>
@@ -484,20 +488,20 @@ function PlanPage() {
                   Approximate count is fine
                 </p>
                 <div className="mt-8 flex gap-3 flex-wrap">
-                  {Array.isArray([50, 150, 300, 500, 1000]) &&
-                    [50, 150, 300, 500, 1000].map((n) => (
-                      <button
-                        key={n}
-                        onClick={() => setGuests(n)}
-                        className={`rounded-full border px-5 py-2 text-sm font-bold transition-all duration-300 ${
-                          guests === n
-                            ? "border-primary bg-primary text-black font-bold shadow-glow"
-                            : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
-                        }`}
-                      >
-                        {n}
-                      </button>
-                    ))}
+                  {[50, 150, 300, 500, 1000].map((n) => (
+                    <button
+                      key={n}
+                      onClick={() => setGuests(n)}
+                      className={`rounded-full border px-5 py-2 text-sm font-bold transition-all duration-300 ${
+                        guests === n
+                          ? "border-amber-400 shadow-[0_0_16px_rgba(201,153,74,0.5)] -translate-y-0.5 text-black"
+                          : "border-white/15 bg-white/8 text-white hover:border-amber-400/40"
+                      }`}
+                      style={guests === n ? { background: "linear-gradient(135deg,#f5d98a 0%,#c9994a 55%,#a0722a 100%)" } : {}}
+                    >
+                      {n}
+                    </button>
+                  ))}
                 </div>
               </div>
             </div>
@@ -609,19 +613,23 @@ function PlanPage() {
                       "Jaipur",
                       "Shimla",
                       "Other",
-                    ].map((s) => (
+                    ].map((s) => {
+                      const isActive = state === s;
+                      return (
                       <button
                         key={s}
                         onClick={() => setState(s === "Other" ? state : s)}
-                        className={`rounded-2xl border py-4 px-4 text-center transition-all duration-300 ${
-                          state === s
-                            ? "border-primary bg-primary text-black font-bold shadow-glow"
-                            : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
+                        className={`rounded-2xl border py-4 px-4 text-center transition-all duration-300 font-bold ${
+                          isActive
+                            ? "border-amber-400 shadow-[0_0_18px_rgba(201,153,74,0.45)] -translate-y-1 text-black"
+                            : "border-white/15 bg-white/8 text-white hover:border-amber-400/30 hover:-translate-y-0.5"
                         }`}
+                        style={isActive ? { background: "linear-gradient(135deg,#f5d98a 0%,#c9994a 55%,#a0722a 100%)" } : {}}
                       >
                         <p className="font-display text-lg">{s}</p>
                       </button>
-                    ))}
+                      );
+                    })}
                   </div>
                 </div>
                 <div>
@@ -629,19 +637,23 @@ function PlanPage() {
                     Wedding Aesthetic
                   </label>
                   <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-                    {THEMES.map((t) => (
+                    {THEMES.map((t) => {
+                      const isActive = theme === t.name;
+                      return (
                       <button
                         key={t.name}
                         onClick={() => setTheme(t.name)}
-                        className={`rounded-2xl border py-4 px-4 text-center transition-all duration-300 ${
-                          theme === t.name
-                            ? "border-primary bg-primary text-black font-bold shadow-glow"
-                            : "border-border bg-white/90 hover:border-primary/40 text-black shadow-md"
+                        className={`rounded-2xl border py-4 px-4 text-center transition-all duration-300 font-bold ${
+                          isActive
+                            ? "border-amber-400 shadow-[0_0_18px_rgba(201,153,74,0.45)] -translate-y-1 text-black"
+                            : "border-white/15 bg-white/8 text-white hover:border-amber-400/30 hover:-translate-y-0.5"
                         }`}
+                        style={isActive ? { background: "linear-gradient(135deg,#f5d98a 0%,#c9994a 55%,#a0722a 100%)" } : {}}
                       >
                         <p className="font-display text-lg">{t.name}</p>
                       </button>
-                    ))}
+                      );
+                    })}
                   </div>
                 </div>
               </div>

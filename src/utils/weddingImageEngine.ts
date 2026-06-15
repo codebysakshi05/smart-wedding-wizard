@@ -427,12 +427,36 @@ const CAPACITY: Record<BudgetTier, number> = { budget: 250, mid: 500, premium: 1
 const RATINGS: Record<BudgetTier, number> = { budget: 4.0, mid: 4.3, premium: 4.8 };
 
 function normalizeState(raw: string): string {
-  return raw
-    .toLowerCase()
-    .replace(/\s+/g, "-")
-    .replace("tamilnadu", "tamil-nadu")
-    .replace("andhra pradesh", "hyderabad")
-    .replace("telangana", "hyderabad");
+  const s = raw.toLowerCase().trim();
+
+  // City → State mappings for plan page quick-pick locations
+  const CITY_TO_STATE: Record<string, string> = {
+    "mumbai": "maharashtra",
+    "pune": "maharashtra",
+    "udaipur": "rajasthan",
+    "jaipur": "rajasthan",
+    "jodhpur": "rajasthan",
+    "shimla": "punjab",       // fallback to nearest with coverage
+    "manali": "punjab",
+    "bangalore": "karnataka",
+    "bengaluru": "karnataka",
+    "mysore": "karnataka",
+    "mysuru": "karnataka",
+    "chennai": "tamil-nadu",
+    "coimbatore": "tamil-nadu",
+    "kolkata": "maharashtra", // no Bengal coverage yet
+    "ahmedabad": "rajasthan", // no Gujarat coverage yet
+    "lucknow": "delhi",       // closest coverage
+    "agra": "delhi",
+    "varanasi": "delhi",
+    "andhra pradesh": "hyderabad",
+    "telangana": "hyderabad",
+    "tamilnadu": "tamil-nadu",
+  };
+
+  if (CITY_TO_STATE[s]) return CITY_TO_STATE[s];
+
+  return s.replace(/\s+/g, "-");
 }
 
 export function getVenuesByStateAndTier(state: string, tier: BudgetTier): VenueResult[] {
